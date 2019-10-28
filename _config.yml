@@ -6,7 +6,7 @@ meta_description: "Blog spécialisé autour des crypto-actifs & technologies Blo
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/home'
+baseurl: '/ms-crypto-website'
 email: 'steve.despres@protonmail.com'
 google_analytics: 'demo'
 disqus: 'demowebsite'

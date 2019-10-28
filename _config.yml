@@ -1,0 +1,52 @@
+# Site
+name: "Crypto MS"
+title: "Différents sujets sur les Crypto & Blockchains"
+description: "Blog spécialisé autour des crypto-actifs & technologies Blockchain"
+meta_description: "Blog spécialisé autour des crypto-actifs & technologies Blockchain"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl: '/web'
+email: 'steve.despres@protonmail.com'
+google_analytics: 'demo'
+disqus: 'demowebsite'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+
+# Authors
+authors:
+  steve:
+    name: Steve Despres
+    display_name: Steve
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: steve.despres@protonmail.com
+    web: https://steve.despres.dev
+    twitter: https://twitter.com/_SteveD
+    description: "Développeur & passionné des technologies Blockchain"
+  marvin:
+    name: Marvin Beaufort
+    display_name: Marvin
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: marvin@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+        
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
+markdown: kramdown
+highlighter: rouge

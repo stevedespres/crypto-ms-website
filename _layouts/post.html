@@ -90,7 +90,17 @@ post_class: post-template
             ================================================== -->
             <section>
             <div id="comments">                          
-                {% include disqus.html %} 
+              <!-- {% include disqus.html %} --> 
+
+              <section class="constrain">
+                    <h4>Écrire un commentaire</h4>
+                    {% include comments-new.html %}
+                  </section>
+                  
+                  <section class="constrain">
+                    <h4>Tous les commentaires</h4>
+                    {% include comments.html %}
+                  </section>
             </div>
             </section>
             <!--End Comments

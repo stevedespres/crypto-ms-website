@@ -4,15 +4,12 @@
         {% for comment in comments reversed %}
             {% assign commentData = comment[1] %}
     
-            <article class="review mdl-card mdl-shadow--2dp">
-              <div class="mdl-card__title">
-                <h2 class="mdl-card__title-text">{{ commentData.title }}</h2>
-              </div>
+            <article class="review mdl-card mdl-shadow--2dp" style="width:100%; min-height: 0px;">
               <div class="mdl-card__supporting-text">
-                  <p><strong>Écrit par : </strong>{{ commentData.name }}</p>
-              <div class="review__description">
-                    {{ commentData.description | markdownify }}
-                </div>
+                  <p><strong>{{ commentData.name }} </strong></p>
+                  <div class="review__description">
+                        {{ commentData.description | markdownify }}
+                  </div>
               </div>
             </article>
         {% endfor %}

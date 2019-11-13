@@ -7,7 +7,14 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "message"]
+  allowedFields: ["name", "message"]
+
+  # (*) REQUIRED WHEN USING NOTIFICATIONS
+  #
+  # When allowedOrigins is defined, only requests sent from one of the domains
+  # listed will be accepted. The origin is sent as part as the `options` object
+  # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
+  #allowedOrigins: ["http://localhost:4000/ms-crypto-website/jekyll/tutorial/2018/01/12/exemple-article-5.html"]
 
   # (*) REQUIRED
   #
@@ -16,7 +23,7 @@ comments:
   branch: "master"
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "Add comment"
+  commitMessage: "Add Staticman data"
 
   # (*) REQUIRED
   #

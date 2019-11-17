@@ -1,16 +1,13 @@
 # Site
 name: "Crypto MS"
-title: "Différents sujets sur les Crypto & Blockchains"
-description: "Blog spécialisé autour des crypto-actifs & technologies Blockchain"
-meta_description: "Blog spécialisé autour des crypto-actifs & technologies Blockchain"
+title: "Diverses sujets sur les Blockchains & Crypto-actifs"
+description: "Site internet spécialisé autour des technologies Blockchain & crypto-actifs"
+meta_description: "Site internet spécialisé autour des technologies Blockchain & crypto-actifs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: '/ms-crypto-website'
 email: 'steve.despres@protonmail.com'
-google_analytics: 'demo'
-disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
@@ -45,7 +42,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/categorie/:name/'
     
 # Other
 markdown: kramdown

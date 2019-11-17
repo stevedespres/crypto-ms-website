@@ -2,23 +2,29 @@
   <div class="form__spinner mdl-spinner mdl-spinner--single-color mdl-js-spinner is-active"></div>
     <fieldset class="field-group">
       <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label" style="width:100%;">
-        <input class="mdl-textfield__input" type="text" id="movie-form[name]" name="fields[name]"/>
+        <input class="mdl-textfield__input" type="text" id="movie-form[name]" name="fields[name]" required/>
         <label class="mdl-textfield__label" for="movie-form[name]">Votre nom</label>
       </div>
     </fieldset>
    
     <fieldset class="field-group">
       <div class="mdl-textfield mdl-textfield--floating-label mdl-js-textfield" style="width:100%;">
-        <textarea class="mdl-textfield__input" name="fields[message]" type="text" rows= "3" id="movie-form[message]"></textarea>
+        <textarea class="mdl-textfield__input" name="fields[message]" type="text" rows= "3" id="movie-form[message]" required></textarea>
         <label class="mdl-textfield__label" for="movie-form[message]">Votre commentaire</label>
       </div>
     </fieldset>
-      
-
+    
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    <input type="hidden" name="options[reCaptcha][siteKey]" value="6Lfo98IUAAAAAIxfBoE6A52eBS9_RXZzgpomo3lf">
+    <input type="hidden" name="options[reCaptcha][secret]" value="Z2uu/n4kIBUwU/dZ3Wk2e3Lr0HHjLI11Kosc3DW2BsvxPaG1OIzqZtQqfFpYPQ1POiDNAweq6Af9zQdB/+pO2u/C8sic+RszsCKUSDoUxtm3Z7ivV5/2Ahp+1fhwLJXXcQ1dLPvzqzB3ZKfXqTp/2k8iL16oh2RDhoH11E8QVDKSwRtK5xJaPNqlgXJH97lbXCYiJ3npvuDWCKPNk9OzzzBJCBDkRtEJ+WZsM/sJsZyffN9wwaIWXrXSho/krUgvvUPo6kqF9710gNz2sF1sSvQr40pCO0yDH0MOHb9dWTlI4n/i4I3Fxd4ca48NMTN71j9JGiHV5hWPAjHWbMpCBA==">
+    
     <fieldset class="field-group">
       <button class="mdl-button mdl-js-button mdl-button--raised">
         Envoyer
       </button>
     </fieldset>
+
+    <div class="g-recaptcha" data-sitekey="6Lfo98IUAAAAAIxfBoE6A52eBS9_RXZzgpomo3lf"></div>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
   </form>

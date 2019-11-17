@@ -47,7 +47,7 @@ comments:
   # Whether entries need to be appproved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
-  moderation: true
+  moderation: false
 
   # Name of the site. Used in notification emails.
   name: "cryptoms.fr"
@@ -82,3 +82,8 @@ comments:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+
+  reCaptcha:
+    enabled: true
+    siteKey: "6Lfo98IUAAAAAIxfBoE6A52eBS9_RXZzgpomo3lf"
+    secret: "Z2uu/n4kIBUwU/dZ3Wk2e3Lr0HHjLI11Kosc3DW2BsvxPaG1OIzqZtQqfFpYPQ1POiDNAweq6Af9zQdB/+pO2u/C8sic+RszsCKUSDoUxtm3Z7ivV5/2Ahp+1fhwLJXXcQ1dLPvzqzB3ZKfXqTp/2k8iL16oh2RDhoH11E8QVDKSwRtK5xJaPNqlgXJH97lbXCYiJ3npvuDWCKPNk9OzzzBJCBDkRtEJ+WZsM/sJsZyffN9wwaIWXrXSho/krUgvvUPo6kqF9710gNz2sF1sSvQr40pCO0yDH0MOHb9dWTlI4n/i4I3Fxd4ca48NMTN71j9JGiHV5hWPAjHWbMpCBA=="

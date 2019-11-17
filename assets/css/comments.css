@@ -108,6 +108,10 @@ section + section {
 	padding-top: 0;
 }
 
+.mdl-card__title {
+	padding-bottom: 0;
+}
+
 .modal {
 	display: none;
 	position: fixed;

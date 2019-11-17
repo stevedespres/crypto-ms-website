@@ -1,16 +1,16 @@
 <div class="js-comments">
-        {% assign comments = site.data.comments | sort %}
-        
+        {% assign comments = site.data.comments[page.slug] %}
+
         {% for comment in comments reversed %}
             {% assign commentData = comment[1] %}
-    
             <article class="review mdl-card mdl-shadow--2dp" style="width:100%; min-height: 0px;">
-              <div class="mdl-card__supporting-text">
-                  <p><strong>{{ commentData.name }} </strong></p>
-                  <div class="review__description">
-                        {{ commentData.description | markdownify }}
-                  </div>
-              </div>
+                <div class="mdl-card__title">
+                    <p><strong>{{ commentData.name }}</strong></p>
+                </div>
+                <div class="mdl-card__supporting-text">
+                  <p><strong>{{ commentData.message | markdownify }}</strong></p>
+                
+                </div>
             </article>
         {% endfor %}
     </div>

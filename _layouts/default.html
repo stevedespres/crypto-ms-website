@@ -24,6 +24,7 @@
 <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.5/material.indigo-pink.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link href="{{ site.baseurl }}/assets/css/comments.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/sharingbuttons.css" rel="stylesheet">
       
 </head>
         
@@ -56,11 +57,19 @@
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link" href="{{ site.baseurl }}/index.html#articles" id="dropdown01">Articles</a>
-                </li>
+                        <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/index.html#articles" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Article</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdown01">
+                        <a class="dropdown-item" href="{{ site.baseurl }}/index.html#articles">Tous les articles</a>
+                    <!--    <a class="dropdown-item" href="{{ site.baseurl }}/categorie/technologie">Technologie</a> -->
+                    <!--    <a class="dropdown-item" href="{{ site.baseurl }}/categorie/economie">Économie</a> -->
+                    <!--    <a class="dropdown-item" href="{{ site.baseurl }}/categorie/compabilite">Comptabilité</a> -->
+                    <!--    <a class="dropdown-item" href="{{ site.baseurl }}/categorie/finance">Finance</a> -->
+                    <!--    <a class="dropdown-item" href="{{ site.baseurl }}/categorie/informatique">Informatique</a> -->
+                        </div>
+                    </li>
                 
                 <li class="nav-item">                
-                    <a class="nav-link" href="{{ site.baseurl }}/about">A Propos</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/apropos">A Propos</a>
                 </li> 
                 
                 <li class="nav-item">                
@@ -111,9 +120,7 @@
             <div class="row">
                 <div class="col-sm-3">
                 <div class="footer-widget">
-                <a href="{{site.baseurl}}/contact">
                 <img src="{{ site.baseurl }}/assets/images/logo-footer.png">
-                </a>
                 </div>
                 </div>
 
@@ -121,9 +128,9 @@
                 <div class="footer-widget">
                 <h5 class="title">Informations</h5>
                 <ul>
-                    <li><a href="https://www.wowthemes.net/premium-themes-templates/">Licence</a></li>
-                    <li><a href="https://www.wowthemes.net/terms-and-conditions/">Mentions légales</a></li>
-                    <li><a href="https://www.wowthemes.net/support/">Politique de confidentialité</a></li>
+                    <li><a href="{{ site.baseurl }}/licence">Licence</a></li>
+                    <li><a href="{{ site.baseurl }}/mentions-legales">Mentions légales</a></li>
+                    <li><a href="{{ site.baseurl }}/confidentialite">Politique de confidentialité</a></li>
                 </ul>
                 </div>
                 </div>
@@ -132,8 +139,8 @@
                 <div class="footer-widget">
                 <h5 class="title">Auteurs</h5>
                 <ul>
-                    <li><a href="https://www.wowthemes.net/premium-themes-templates/">A propos de nous</a></li>
-                    <li><a href="https://www.wowthemes.net/support/">Contact</a></li>
+                    <li><a href="{{ site.baseurl }}/apropos">A propos de nous</a></li>
+                    <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
                 </ul>
                 </div>
                 </div>
@@ -141,7 +148,8 @@
                 <div class="col-sm-3">
                 <div class="footer-widget textwidget">
                     <h5 class="title">Projet</h5>
-                    <p>Le code source de ce blog et de ses articles est disponible publiquement. Vous pouvez apporter votre contribution en nous contactant ou directement sur notre <a href="https://www.wowthemes.net/support/">projet Github</a>.</p>                 
+
+                    <p>Le code source de ce site est disponible publiquement. Vous pouvez le consulter sur notre <a href="https://github.com/stevedespres/crypto-ms-website">projet Github</a>.</p>                 
                 </div>
                 </div>
             </div>
@@ -149,6 +157,9 @@
             <div class="copyright">
                 <p class="pull-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
+                </p>
+                <p class="pull-right">
+                        0 information personnelle collectée | 0 traqueur utilisé | 0 publicité affichée
                 </p>
         
             </div>

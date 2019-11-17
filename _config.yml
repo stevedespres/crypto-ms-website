@@ -6,7 +6,7 @@ meta_description: "Site internet spécialisé autour des technologies Blockchain
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/ms-crypto-website'
+baseurl: '/crypto-ms-website'
 email: 'steve.despres@protonmail.com'
 
 # Authors

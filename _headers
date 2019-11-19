@@ -1,0 +1,7 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy: default-src 'self'; upgrade-insecure-requests; referrer no-referrer
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin
+  Feature-Policy: ambient-light-sensor 'none'; autoplay 'none'; accelerometer 'none'; battery 'none'; camera 'none'; display-capture 'none'; document-domain 'none'; encrypted-media 'none'; execution-while-not-rendered 'none'; execution-while-out-of-viewport 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; usb 'none'; vr 'none'; xr-spatial-tracking 'none'

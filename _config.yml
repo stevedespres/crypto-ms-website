@@ -49,4 +49,6 @@ markdown: kramdown
 highlighter: rouge
 
 # Server config
-include: _headers
+include:
+  - _headers
+

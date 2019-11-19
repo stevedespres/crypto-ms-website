@@ -7,3 +7,4 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   Feature-Policy: ambient-light-sensor 'none'; autoplay 'none'; accelerometer 'none'; camera 'none'; display-capture 'none'; document-domain 'none'; encrypted-media 'none'; execution-while-not-rendered 'none'; execution-while-out-of-viewport 'none'; fullscreen 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; usb 'none'; vr 'none'
+  Cache-Control: max-age=3600

@@ -50,5 +50,5 @@ highlighter: rouge
 
 # Server config
 include:
-  - _headers
+  - /_site/_headers
 

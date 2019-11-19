@@ -47,3 +47,6 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
+# Server config
+include: _headers

@@ -1,6 +1,7 @@
 /*
   X-Frame-Options: DENY
-  Content-Security-Policy: default-src *
+  X-XSS-Protection: 1; mode=block
+  # Content-Security-Policy: default-src *
   X-Content-Security-Policy: default-src *
   X-WebKit-CSP: default-src *
   X-Content-Type-Options: nosniff

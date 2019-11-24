@@ -102,12 +102,14 @@
     <div id="comments">                          
     
         <div>
-            <h4>Écrire un commentaire</h4>
+            <p>Écrire un commentaire</p>
             {% include comments-new.html %}
         </div>
         
-        <div >
-            <h4>Tous les commentaires</h4>
+        <div><br>
+            {% if site.data.comments[page.slug] %}
+            <p>Tous les commentaires</p>
+            {% endif %}
             {% include comments.html %}
         </div>
 

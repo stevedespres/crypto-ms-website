@@ -1,12 +1,12 @@
 # Site
 name: "Crypto MS"
-title: "Diverses sujets sur les Blockchains & Crypto-actifs"
+title: "Divers sujets sur les Blockchains & Crypto-actifs"
 description: "Site internet spécialisé autour des technologies Blockchain & crypto-actifs"
 meta_description: "Site internet spécialisé autour des technologies Blockchain & crypto-actifs"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: ''
+baseurl: '/crypto-ms-website/'
 email: 'steve.despres@protonmail.com'
 
 # Authors
@@ -16,17 +16,17 @@ authors:
     display_name: Steve
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: steve.despres@protonmail.com
-    web: https://steve.despres.dev
+    web: https://cryptoms.fr/apropos
     twitter: https://twitter.com/_SteveD
     description: "Développeur & passionné des technologies Blockchain"
   marvin:
     name: Marvin Beaufort
     display_name: Marvin
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: marvin@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: marvin.beaufort@orange.fr
+    web: https://cryptoms.fr/apropos
+    twitter: 
+    description: "Diplômé de Master CCA, passionné d'économie et de crypto-économie"
 
 # Plugins
 plugins: 

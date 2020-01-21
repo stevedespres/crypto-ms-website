@@ -3,7 +3,6 @@
   
     $('.js-form').submit(function () {
       var form = this;
-      console.log("submit");
       $(form).addClass('form--loading');
   
       $.ajax({
@@ -12,13 +11,10 @@
         data: $(this).serialize(),
         contentType: 'application/x-www-form-urlencoded',
         success: function (data) {
-            console.log("ok");
           showModal('Commentaire publié', 'Merci ! Il sera afficher une fois qu\'il aura été approuvé par l\'équipe.');
           $(form).removeClass('form--loading');
         },
         error: function (err) {
-          console.log(err);
-          console.log("err");
           showModal('Erreur', 'Désolé, une erreur s\'est produite. Veuillez réessayer plus tard ou contacter l\'équipe.');
           $(form).removeClass('form--loading');
         }

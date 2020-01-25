@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
-url: 'https://cryptoms.fr'
+true_url: 'https://cryptoms.fr'
 email: 'steve.despres@protonmail.com'
 
 # Authors

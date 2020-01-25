@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Une Blockchain pour lutter contre la déforestation de l'Amazonie ?"
 author: marvin
 categories: [ economie ]

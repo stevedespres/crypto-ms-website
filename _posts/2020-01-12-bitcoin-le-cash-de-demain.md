@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-right-sidebar
 title:  "Bitcoin: le cash de demain ?"
 author: marvin
 categories: [ economie ]
@@ -15,7 +15,7 @@ Les cryptomonnaies, à l’avenir, deviendront prépondérantes dans notre soci�
 
 La liberté est une notion primordiale dans l’existence des cryptomonnaies et sera sûrement la raison qui fera perdurer les cryptomonnaies non indexées sur des fiats.
 
-Prenons exemple sur la Chine. Je ne présenterai pas plus le gouvernement et le type de gouvernance exercé en Chine ; autant dire que le crypto-yuan sera un outil essentiel à une surveillance exacerbée de l’état chinois sur ses concitoyens. Ces mêmes citoyens qui utilisent déjà des cryptomonnaies pour échapper aux contrôles de l’état chinois. 
+Prenons l'exemple de la Chine. Je ne présenterai pas plus le gouvernement et le type de gouvernance exercé en Chine ; autant dire que le crypto-yuan sera un outil essentiel à une surveillance exacerbée de l’état chinois sur ses concitoyens. Ces mêmes citoyens qui utilisent déjà des cryptomonnaies pour échapper aux contrôles de l’état chinois. 
 
 Ces personnes utiliseront certainement le crypto-yuan comme tous les Chinois, mais pour échapper à la surveillance de l’état, ils continueront d’utiliser des cryptomonnaies annexes.
 

@@ -23,7 +23,14 @@
     </div>
 
     <!-- Post Featured Image -->
-    {% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+    {% if page.image %}
+    <figure  class="image-info">
+        <img class="featured-image img-fluid" value="TEST" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+        <figcaption>{{ page.image_credential }}</figcaption>
+    </figure>
+    
+    
+    {% endif %}
     <!-- End Featured Image -->
 
     <!-- Post Content -->

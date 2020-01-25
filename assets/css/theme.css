@@ -426,7 +426,7 @@ blockquote {
 }
 .featured-image {
     display: block;
-    margin-bottom: 2rem;
+    margin-bottom: 0rem;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
 }
 .article-post img, .article-post iframe {
@@ -860,4 +860,8 @@ iframe {
     .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }    
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
     
+}
+.image-info {
+    color: grey;
+    font-size: 10px;
 }

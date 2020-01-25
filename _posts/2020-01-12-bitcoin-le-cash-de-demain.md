@@ -6,6 +6,7 @@ categories: [ economie ]
 image: assets/images/yuan.jpg
 featured: true
 ---
+
 ### Pourquoi le bitcoin remplacera vos billets ?
 
 Pourquoi le bitcoin remplacera vos billets ?

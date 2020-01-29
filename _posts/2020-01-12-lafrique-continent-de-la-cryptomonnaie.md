@@ -4,7 +4,7 @@ title:  "L'Afrique: continent de la cryptomonnaie"
 description: "Le continent africain est surement celui où la cryptomonnaie pourrait être adoptée le plus rapidement. Le continent est celui où la population est la moins bancarisée : moins de 20% de la population aurait accès à un compte bancaire."
 author: marvin
 categories: [ economie ]
-image: assets/images/afrique.jpg
+image: assets/images/articles/lafrique-continent-de-la-cryptomonnaie/1.jpg
 image_credential: "Illustration par http://guineeconakry.online"
 featured: false
 ---
@@ -24,7 +24,7 @@ L’économie du Libéria est donc en partie dépendante des transactions issues
 
 Selon la Banque Mondiale, c’est d’ailleurs l’Afrique subsaharienne qui est la région la plus taxée lors des transferts de fonds entre Banques, avec un taux de 9%.
 
-![walking]({{ site.baseurl }}/assets/images/lafrique-continent-de-la-cryptomonnaie-image1.png)
+![walking]({{ site.baseurl }}/assets/images/articles/lafrique-continent-de-la-cryptomonnaie/2.png)
 
 *EAP = Asie de l'Est et Pacifique* 
 

@@ -4,7 +4,7 @@ title:  "Une Blockchain pour lutter contre la déforestation de l'Amazonie ?"
 description: "La Blockchain pourrait aider à résoudre certains problèmes, même environnementaux comme la déforestation en Amazonie."
 author: marvin
 categories: [ economie ]
-image: assets/images/amazonie.jpg
+image: assets/images/articles/une-blockchain-pour-lutter-contre-la-deforestation/1.jpg
 image_credential: "Déforestation le long de la rivière Jari, dans le nord du Brésil • Crédits : Dea / Pubbli Aer Foto - Getty"
 featured: true
 ---

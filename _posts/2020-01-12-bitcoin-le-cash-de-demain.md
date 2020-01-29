@@ -4,9 +4,9 @@ title:  "Bitcoin: le cash de demain ?"
 description:  "Pourquoi le bitcoin remplacera vos billets ? Les cryptomonnaies, à l’avenir, deviendront prépondérantes dans notre société. Un avenir qui se rapproche de plus en plus, notamment avec l’arrivée du crypto-yuan ou encore du crypto-euro."
 author: marvin
 categories: [ economie ]
-image: assets/images/yuan.jpg
+image: assets/images/articles/bitcoin-le-cash-de-demain/1.jpg
 image_credential: "Monnaie Yuan"
-featured: true
+featured: false
 ---
 
 ### Pourquoi le bitcoin remplacera vos billets ?

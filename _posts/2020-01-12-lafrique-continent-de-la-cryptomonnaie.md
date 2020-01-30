@@ -42,7 +42,7 @@ Selon la Banque Mondiale, c’est d’ailleurs l’Afrique subsaharienne qui est
 
 L’Afrique ne découvre pas les cryptomonnaies, elles sont  d’ailleurs déjà régulièrement utilisées, notamment au Nigéria qui à lui seul pèse plus de 8% des échanges de bitcoins. D’autres pays africains ont connu le succès des cryptomonnaies comme le Zimbabwe et l’Algérie, mais ce succès a été jugé comme nocif pour l’économie du pays. La population étant demandeur de cryptomonnaie, le cours des monnaies nationales fût trop impacté, et l’utilisation de cryptomonnaies a finie par être interdite.
 
-### …Et revendication
+### …Et revendications
 
 On oublie trop souvent le but principal de la Blockchain et de la Cryptomonnaie. Vous entendrez souvent parler de traçabilité, de désintermédiation… mais on oublie la notion d’indépendance et de liberté.
 

@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/lafrique-continent-de-la-cryptomonnaie/1.jpg
 image_credential: "Illustration par http://guineeconakry.online"
-featured: false
+featured: true
 ---
 
 ### L’Afrique, Terre promise

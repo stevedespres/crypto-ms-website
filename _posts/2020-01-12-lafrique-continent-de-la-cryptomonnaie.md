@@ -22,7 +22,7 @@ L’Afrique est au cœur de nombreuses transactions monétaires, cette année la
 
 L’économie du Libéria est donc en partie dépendante des transactions issues de la diaspora, il est alors primordial que celles-ci soient sécurisées et peu coûteuses. La notion de coût est inévitable tant les transactions peuvent être coûteuses entre pays africains, c’est notamment le cas au Mozambique où le coût de transaction peut atteindre plus de 20%, quand ce même transfert n’aurait coûté que quelques euros en transférant du bitcoin. 
 
-Selon la Banque Mondiale, c’est d’ailleurs l’Afrique subsaharienne qui est la région la plus taxée lors des transferts de fonds entre Banques, avec un taux de 9%.
+Selon la Banque Mondiale, c’est d’ailleurs l’Afrique subsaharienne qui est la région la plus taxée lors des transferts de fonds entre Banques, avec un taux de 9%. Pour 75 euros, cela représente une transaction banquaire classique de 835 euros. Récemment, pour 75 euros de frais, une transaction évaluée à 1 Milliard d'euros a été réalisée en bitcoin. 
 
 ![walking]({{ site.baseurl }}/assets/images/articles/lafrique-continent-de-la-cryptomonnaie/2.png)
 

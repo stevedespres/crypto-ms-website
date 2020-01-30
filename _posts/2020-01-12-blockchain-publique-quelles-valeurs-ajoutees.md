@@ -43,9 +43,9 @@ Cependant, le bitcoin a toutes les propriétés théoriques pour qu’il soit ut
 
 Sur certaines Blockchains publiques, comme Ethereum, il est possible de développer des programmes appelés Smart Contract. Ces contrats programmables permettent de définir des conditions pour effectuer des actions automatiques sur la Blockchains.
 
-En pratique, il est possible de créer des contrats entre différentes parties : si les conditions du contrat sont complètes, une action est lancée automatiquement. Les possibilités sont infinies, car les contrats sont personnalisables à souhait.
+En pratique, il est possible de créer des contrats entre différentes parties : si les conditions du contrat sont complètes, une action est lancée automatiquement  (si ... alors ...). Les possibilités sont infinies, car les contrats sont personnalisables à souhait.
 
-L’objectif est de pouvoir créer des contrats, en toute transparence, sans avoir recours à des tiers. Cela permet d’automatiser des procédures, donc de gagner du temps et de diminuer des frais.
+L’objectif est de pouvoir créer des contrats, en toute transparence, sans avoir recours à des tiers. Cela permet d’automatiser des procédures, donc de gagner du temps et de diminuer des frais. Cependant, en France par exemple, les difficultés législatives font que pour certains actes, le recours à un notaire est obligatoire, ce qui limite les cas d'usages. 
 
 ### Quelques exemples concrets
 

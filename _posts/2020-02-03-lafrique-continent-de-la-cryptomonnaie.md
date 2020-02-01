@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "L'Afrique: continent de la cryptomonnaie"
+title:  "L'Afrique, continent de la cryptomonnaie"
 description: "Le continent africain est surement celui où la cryptomonnaie pourrait être adoptée le plus rapidement. Le continent est celui où la population est la moins bancarisée : moins de 20% de la population aurait accès à un compte bancaire."
 author: marvin
 categories: [ economie ]

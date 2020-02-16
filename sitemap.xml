@@ -85,4 +85,15 @@
         <news:title>Bitcoin: le cash de demain ?</news:title> 
     </news:news> 
 </url>
+<url>
+    <loc>https://cryptoms.fr/economie/2020/02/17/une-blockchain-pour-lutter-contre-la-deforestation-de-lamazonie.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Une Blockchain pour lutter contre la déforestation de l'Amazonie ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-02-17</news:publication_date> 
+        <news:title>Une Blockchain pour lutter contre la déforestation de l'Amazonie ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

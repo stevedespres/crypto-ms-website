@@ -30,6 +30,7 @@ authors:
     description: "Diplômé de Master CCA, Auditeur/Collaborateur Comptable, passionné d'économie et de crypto-économie"
 
 # Plugins
+url: "https://cryptoms.fr"
 plugins: 
   - jekyll-paginate
   - jekyll-sitemap

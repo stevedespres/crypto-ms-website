@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Blockchain publique : quelles valeurs ajoutées ?"
+title:  "Blockchain publique: quelles valeurs ajoutées ?"
 description: "Une Blockchain dite publique est une structure de données accessible à tous et gérée par un réseau ouvert. Tout le monde a la possibilité de lire son contenu, d’ajouter des données et même de rejoindre le réseau."
 author: steve
 categories: [ technologie ]

@@ -5,53 +5,46 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 <url>
   <loc>https://cryptoms.fr/</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/index.html</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/apropos</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/contact</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/licence</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/mentions-legales</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/confidentialite</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/categorie/economie/</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://cryptoms.fr/categorie/technologie/</loc>
   <lastmod>2020-02-01T11:05:55+00:00</lastmod>
-  <priority>0.64</priority>
 </url>
-
+<url>
+  <loc>https://cryptoms.fr/feed.xml</loc>
+  <lastmod>2020-02-17T11:05:55+00:00</lastmod>
+</url>
 <url>
     <loc>https://cryptoms.fr/economie/2020/02/03/lafrique-continent-de-la-cryptomonnaie.html</loc>
     <news:news> 

@@ -1,17 +1,17 @@
 ---
 layout: post-right-sidebar
-title:  "Paris Blockchain Week Summit : 31 mars - 1er avril 2020"
-description: "La deuxième édition de la Paris Blockchain Week Summit (PBWS) aura lieu à Paris à Station F du 31 mars au 1er avril 2020."
+title:  "Paris Blockchain Week Summit : 9 - 10 décembre 2020"
+description: "La deuxième édition de la Paris Blockchain Week Summit (PBWS) aura lieu à Paris à Station F le 9 et 10 décembre 2020."
 author: steve
 categories: [ evenements ]
 image: assets/images/articles/paris-blockchain-week-summit-2020/PBWS.png
 image_credential: "Paris Blockchain Week Summit 2020"
-featured: true
+featured: false
 ---
 
 ### Seconde édition
 
-La deuxième édition de la **Paris Blockchain Week Summit** (PBWS) aura lieu à Paris à **Station F** du **31 mars au 1er avril 2020**. 
+La deuxième édition de la **Paris Blockchain Week Summit** (PBWS), initialement prévu en avril, aura finalement lieu à Paris à **Station F** le **9 et 10 décembre 2020**. Les organisateurs ont décidés de reporter l'évenement pour des raisons de sécurité et de prévention liés à l'épidémie de Conoravirus.
 
 Lancée pour la première fois en avril 2019, PBWS a été la première grande conférence internationale organisée en France dédiée aux professionnels de la blockchain et des actifs digitaux. L'événement est organisé par des entreprises du secteur, Chain Accelerator, Woorton et Datalents. PBWS a pour  objectif d’accélérer la croissance de la blockchain et des actifs digitaux en France et à l’étranger.
 
@@ -47,6 +47,6 @@ notamment en ce qui concerne l’adoption par les entreprises et les cas d’usa
 
 ### CryptoMS partenaire officiel
 
-CryptoMS est partenaire officiel de la PBWS et couvrera les différents sujets abordés lors de cet évenement. Rendez-vous en avril. 
+CryptoMS est partenaire officiel de la PBWS et couvrera les différents sujets abordés lors de cet évenement. Rendez-vous en décembre. 
 
 Beneficiez de 30% de remise sur votre [billet](https://www.eventbrite.fr/e/paris-blockchain-week-summit-2020-tickets-71352564441) avec le code **CRYPTOMS30**

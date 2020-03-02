@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "La Blockchain améliore-t-elle réellement la traçabilité ?"
-description: ""
+description: "La Blockchain et les flux financiers"
 author: marvin
 categories: [ economie ]
 image: assets/images/articles/la-blockchain-ameliore-elle-vraiment-la-tracabilite/1.jpg

@@ -47,6 +47,6 @@ notamment en ce qui concerne l’adoption par les entreprises et les cas d’usa
 
 ### CryptoMS partenaire officiel
 
-CryptoMS est partenaire officiel de la PBWS et couvrera les différents sujets abordés lors de cet évenement. Rendez-vous en décembre. 
+CryptoMS est partenaire officiel de la PBWS et couvrira les différents sujets abordés lors de cet évenement. Rendez-vous en décembre. 
 
 Beneficiez de 30% de remise sur votre [billet](https://www.eventbrite.fr/e/paris-blockchain-week-summit-2020-tickets-71352564441) avec le code **CRYPTOMS30**

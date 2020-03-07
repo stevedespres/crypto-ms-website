@@ -89,4 +89,48 @@
         <news:title>Une Blockchain pour lutter contre la déforestation de l'Amazonie ?</news:title> 
     </news:news> 
 </url>
+<url>
+    <loc>https://cryptoms.fr/evenements/2020/02/24/paris-blockchain-week-summit-2020.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Paris Blockchain Week Summit : 9 - 10 décembre 2020</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-02-24</news:publication_date> 
+        <news:title>Paris Blockchain Week Summit : 9 - 10 décembre 2020</news:title> 
+    </news:news> 
+</url>
+<url>
+    <loc>https://cryptoms.fr/technologie/2020/02/24/comment-garantir-lauthenticite-des-donnees-sur-une-blockchain.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Comment garantir l'authenticité des données sur une Blockchain ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-02-24</news:publication_date> 
+        <news:title>Comment garantir l'authenticité des données sur une Blockchain ?</news:title> 
+    </news:news> 
+</url>
+<url>
+    <loc>https://cryptoms.fr/economie/2020/03/02/la-blockchain-ameliore-t-elle-reellement-la-tracabilite.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>La Blockchain améliore-t-elle réellement la traçabilité ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-03-02</news:publication_date> 
+        <news:title>La Blockchain améliore-t-elle réellement la traçabilité ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/economie/2020/03/09/quelle-gouvernance-pour-une-blockchain.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Quelle gouvernance pour une Blockchain ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-03-09</news:publication_date> 
+        <news:title>Quelle gouvernance pour une Blockchain ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

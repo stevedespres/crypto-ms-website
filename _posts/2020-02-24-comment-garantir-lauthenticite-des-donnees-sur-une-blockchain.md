@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/comment-garantir-lauthenticite-des-donnees-sur-une-blockchain/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Les Blockchains peuvent mentir

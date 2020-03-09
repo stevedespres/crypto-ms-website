@@ -57,4 +57,4 @@ Les Blockchains permettent d’avoir un **accès direct** à ses actifs à condi
 
 ### Conclusion
 
-Cet article se limite aux **trois protocoles de consensus** les plus importants, mais de nombreux autres** types et variantes** existent. Il n’y a pas de protocoles parfaits, chacun tente de proposer une solution au **trilemme de la performance, sécurité et décentralisation** d’une Blockchain. Des questions de **gouvernance, d’économie et de philosophie** se posent dans chaque implémentation. Seul le temps permettra de voir quels protocoles sont les plus résistants.
+Cet article se limite aux **trois protocoles de consensus** les plus importants, mais de nombreux autres **types et variantes** existent. Il n’y a pas de protocoles parfaits, chacun tente de proposer une solution au **trilemme de la performance, sécurité et décentralisation** d’une Blockchain. Des questions de **gouvernance, d’économie et de philosophie** se posent dans chaque implémentation. Seul le temps permettra de voir quels protocoles sont les plus résistants.

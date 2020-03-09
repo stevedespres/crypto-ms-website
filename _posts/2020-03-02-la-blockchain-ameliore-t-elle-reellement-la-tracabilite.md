@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/la-blockchain-ameliore-elle-vraiment-la-tracabilite/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### La Blockchain et les flux financiers

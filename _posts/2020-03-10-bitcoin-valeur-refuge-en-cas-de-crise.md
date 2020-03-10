@@ -15,7 +15,7 @@ Ces derniers jours, les **cours du pétrole** et des **valeurs boursières** ont
 
 Ce **krach boursier** est certainement poussé par une **peur généralisée** liée au **Coronavirus** ainsi qu’à une **guerre des prix du baril de pétrole**, mais il était annoncé depuis des mois par des économistes. 
 
-Dans ce contexte **d’inquiétude collective**, le **Bitcoi**n peut-il se révéler comme une valeur refuge ? Une valeur refuge est un investissement permettant de sécuriser de la valeur, de façon stable, même en période de crise. 
+Dans ce contexte **d’inquiétude collective**, le **Bitcoin** peut-il se révéler comme étant une valeur refuge ? Une valeur refuge est un investissement permettant de sécuriser de la valeur, de façon stable, même en période de crise. 
 
 ### L'or
 

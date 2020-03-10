@@ -23,7 +23,7 @@ Traditionnellement et culturellement, **l’or et les biens immobiliers** sont c
 
 L’or est depuis des millénaires considérés comme une valeur refuge. C’est un **bien matériel**, même si des titres financiers immatériels se basent dessus (or papier), qui a une **valeur intrinsèque** due à sa rareté. 
 
-L'or a également un avantage prépondérant dans **son utilisation** de valeur refuge. Il est acheté en **grande quantité** par **banques centrales le Fonds Monétaire International**. Ces institutions font cela pour **augmenter leur couverture** en prévention d’une crise. Lors d'une crise financière, ils auront ainsi tendance à **augmenter leur stock d'or**, ce qui fera **augmenter son cours** alors même que **les marchés financiers chuteront**. 
+L'or a également un avantage prépondérant dans **son utilisation** de valeur refuge. Il est acheté en **grande quantité** par les **banques centrales le Fonds Monétaire International**. Ces institutions font cela pour **augmenter leur couverture** en prévention d’une crise. Lors d'une crise financière, ils auront ainsi tendance à **augmenter leur stock d'or**, ce qui fera **augmenter son cours** alors même que **les marchés financiers chuteront**. 
 
 Le Bitcoin lui n'a **pas cette utilité** pour ces institutions. Il est principalement utilisé par des particuliers ou des professionnels pour des **investissements court ou long terme**. Il y a, selon nous, **plusieurs valeurs** au Bitcoin. Une valeur **intrinsèque** liée au protocole, une valeur d'**utilité** (transactions, paiements), une valeur de **semi-refuge** en cas de crise et une valeur **spéculative**. C'est **l'ensemble de ces valeurs** qui forment sa **valeur globale**. Actuellement la valeur spéculative est la plus importante d'où la chute importante en cas de panique généralisée ou de crise économique.
 
@@ -41,7 +41,7 @@ En effet le Bitcoin a un avantage considérable par rapport à l'or; c'est sa ca
 
 Cependant **dans les faits**, le Bitcoin ne peut **pas encore** être défini comme une **valeur refuge**; malgré des propriétés théoriques comparables à l’or, il ne l’a pas encore prouvé. Cela est sans aucun doute lié à un **manque de confiance** de la part des investisseurs, dû à une **forte volatilité** et un **manque de considérations légales**. 
 
-Seul **le temps** nous montrera quelles valeurs seront utilisées comme refuge. Le Bitcoin peut tout à fait réagir à contre-pied des marchés boursiers, ou les suivre dans leurs chutes, il reste **techniquement indépendant**.
+Bitcoin est encore jeune comparé aux valeurs refuges historiques, il n'a qu'une dizaine d'années; seul **le temps** nous montrera s'il sera utilisé comme valeur refuge ou non. Il peut tout à fait réagir à contre-pied des marchés boursiers ou les suivre dans leurs chutes, il reste **techniquement indépendant**.
 
 Pour information, voici les cours de l’or, du CAC40 et du Bitcoin sur les 5 dernières années.
 

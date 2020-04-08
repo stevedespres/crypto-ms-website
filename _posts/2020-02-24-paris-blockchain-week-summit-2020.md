@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Paris Blockchain Week Summit : 9 - 10 décembre 2020"
+title:  "Paris Blockchain Week Summit: 9 - 10 décembre 2020"
 description: "La deuxième édition de la Paris Blockchain Week Summit (PBWS) aura lieu à Paris à Station F le 9 et 10 décembre 2020."
 author: steve
 categories: [ evenements ]

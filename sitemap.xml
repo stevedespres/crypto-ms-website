@@ -93,11 +93,11 @@
     <loc>https://cryptoms.fr/evenements/2020/02/24/paris-blockchain-week-summit-2020.html</loc>
     <news:news> 
         <news:publication>
-            <news:name>Paris Blockchain Week Summit : 9 - 10 décembre 2020</news:name> 
+            <news:name>Paris Blockchain Week Summit: 9 - 10 décembre 2020</news:name> 
             <news:language>fr</news:language>
         </news:publication> 
         <news:publication_date>2020-02-24</news:publication_date> 
-        <news:title>Paris Blockchain Week Summit : 9 - 10 décembre 2020</news:title> 
+        <news:title>Paris Blockchain Week Summit: 9 - 10 décembre 2020</news:title> 
     </news:news> 
 </url>
 <url>
@@ -142,6 +142,16 @@
         </news:publication> 
         <news:publication_date>2020-03-10</news:publication_date> 
         <news:title>Bitcoin: valeur refuge en cas de crise économique ?</news:title> 
+    </news:news> 
+</url>
+<loc>https://cryptoms.fr/technologie/2020/04/09/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>DNS on Blockchain: la prochaine évolution des noms de domaine ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-04-09</news:publication_date> 
+        <news:title>DNS on Blockchain: la prochaine évolution des noms de domaine ?</news:title> 
     </news:news> 
 </url>
 </urlset>

@@ -6,7 +6,7 @@ author: steve
 categories: [ economie ]
 image: assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/1.jpg
 image_credential: "Crédit: iStockphoto"
-featured: true
+featured: false
 ---
 
 ### Contexte de crise

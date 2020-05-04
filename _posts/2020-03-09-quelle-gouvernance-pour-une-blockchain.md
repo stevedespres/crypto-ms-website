@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/quelle-gouvernance-pour-une-blockchain/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Performance, Sécurité et décentralisation

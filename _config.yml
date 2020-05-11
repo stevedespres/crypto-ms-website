@@ -1,8 +1,8 @@
 # Site
 name: "CryptoMS"
 title: "Divers sujets sur les Blockchains & Crypto-actifs"
-description: "Site internet spécialisé autour des technologies Blockchain & crypto-actifs"
-meta_description: "Site internet spécialisé autour des technologies Blockchain & crypto-actifs"
+description: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
+meta_description: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12

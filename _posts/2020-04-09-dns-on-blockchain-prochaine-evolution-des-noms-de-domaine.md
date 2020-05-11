@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/DoB.jpg
 image_credential: ""
-featured: true
+featured: false 
 ---
 
 ### Le DNS, un service fondamental

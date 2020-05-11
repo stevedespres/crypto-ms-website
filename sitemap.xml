@@ -166,4 +166,15 @@
         <news:title>Halving du Bitcoin: à quoi s'attendre le 12 mai 2020 ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/05/11/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Gitcoin, une nouvelle manière de contribuer à des projets open source</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-05-11</news:publication_date> 
+        <news:title>Gitcoin, une nouvelle manière de contribuer à des projets open source</news:title> 
+    </news:news> 
+</url>
 </urlset>

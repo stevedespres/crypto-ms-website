@@ -156,7 +156,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/technologie/2020/05/04/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020.html</loc>
+<loc>https://cryptoms.fr/finance/2020/05/04/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020.html</loc>
     <news:news> 
         <news:publication>
             <news:name>Halving du Bitcoin: à quoi s'attendre le 12 mai 2020 ?</news:name> 
@@ -175,6 +175,17 @@
         </news:publication> 
         <news:publication_date>2020-05-11</news:publication_date> 
         <news:title>Gitcoin, une nouvelle manière de contribuer à des projets open source</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/economie/2020/06/02/les-blockchains-et-la-force-du-nombre.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Les Blockchains et la force du nombre</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-06-02</news:publication_date> 
+        <news:title>Les Blockchains et la force du nombre</news:title> 
     </news:news> 
 </url>
 </urlset>

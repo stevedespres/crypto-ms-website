@@ -6,7 +6,7 @@ author: steve
 categories: [ finance ]
 image: assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Un évenement important

@@ -331,7 +331,7 @@ span.post-name a,span.post-read-more a:hover {
     position: relative;
 }
 .intro .btn {
-    background: #fff100;
+    background: rgba(247, 147, 26, 1);
     border: 0;
     color: #333;
     border-radius: 3px;
@@ -383,7 +383,7 @@ span.post-name a,span.post-read-more a:hover {
     margin-top: 10px;
 }
 .beforefooter {
-    background: #fff100;
+    background: rgba(247, 147, 26, 1);
     color: #111;
     padding: 50px 0;
     max-width: 100%;
@@ -532,7 +532,7 @@ ul.tags li {
 	font-size:0.9rem;
 }
 ul.tags li a {
-    background: #fff100;
+    background: rgba(247, 147, 26, 1);
     color: #333;
     padding: 3px 10px;
     border-radius: 3px;
@@ -779,7 +779,7 @@ img {max-width:100%;height: auto;}
 
 }
 .bottompagination span.navigation a {
-	background: #fff100;
+	background: rgba(247, 147, 26, 1);
     color: #333;
     padding: 5px;
     border-radius: 3px;

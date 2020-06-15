@@ -13,7 +13,7 @@ featured: true
 
 Le secteur Blockchain est en **pleine croissance** depuis 2015 ; **les offres d'emploi se multiplient**, tandis que **les profils spécialisés se font rares**.
 
-Vous êtes intéressé par les **opportunités** possibles dans le **secteur Blockchain** ? Wallcrypt propose un **séminaire gratuit** sur le sujet. 
+Vous êtes intéressés par les **opportunités** possibles dans le **secteur Blockchain** ? Wallcrypt propose un **séminaire gratuit** sur le sujet. 
 
 Le webinaire aura lieu le **mardi 30 juin 2020 à 11h00**. 
 

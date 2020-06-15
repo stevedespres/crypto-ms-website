@@ -188,4 +188,15 @@
         <news:title>Les Blockchains et la force du nombre</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/economie/2020/06/15/comment-travailler-dans-le-secteur-de-la-blockchain.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Comment travailler dans le secteur de la Blockchain ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-06-15</news:publication_date> 
+        <news:title>Comment travailler dans le secteur de la Blockchain ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une plateforme collaborative

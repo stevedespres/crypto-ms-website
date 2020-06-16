@@ -19,7 +19,7 @@ Le webinaire aura lieu le **mardi 30 juin 2020 à 11h00**.
 
 ### Objectifs du séminaire
 
-**Jean-Luc Lasquellec**, président et fondateur de [Wallcrypt](http://www.wallcrypt.fr/), présentera en quoi **la Blockchain représente des opportunités pour l'emploi**, et par quels moyens vous pouvez **déposer une candidature pour un emploi ou un stage**. 
+**Jean-Luc Lasquellec**, président et fondateur de [Wallcrypt](http://www.wallcrypt.com/), présentera en quoi **la Blockchain représente des opportunités pour l'emploi**, et par quels moyens vous pouvez **déposer une candidature pour un emploi ou un stage**. 
 
 Le séminaire s'adresse à tout **salarié, étudiant, indépendant ou recruteur** intéressés par ce secteur d'activité.
 

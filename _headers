@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src *; style-src * 'unsafe-inline';
+  Content-Security-Policy: default-src *; script-src *; connect-src *; img-src *; frame-src *; style-src *;
   X-WebKit-CSP: default-src *
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer

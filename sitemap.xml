@@ -199,4 +199,15 @@
         <news:title>Comment travailler dans le secteur de la Blockchain ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/06/24/enregistrer-un-nom-de-domaine-eth-sur-la-blockchain-ethereum.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Enregistrer un nom de domaine .eth sur la Blockchain Ethereum</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-06-24</news:publication_date> 
+        <news:title>Enregistrer un nom de domaine .eth sur la Blockchain Ethereum</news:title> 
+    </news:news> 
+</url>
 </urlset>

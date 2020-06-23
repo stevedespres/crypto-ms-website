@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/les-blockchains-et-la-force-du-nombre/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Plus forts ensemble

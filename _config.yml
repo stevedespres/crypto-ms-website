@@ -9,6 +9,7 @@ paginate: 12
 baseurl: ''
 true_url: 'https://cryptoms.fr'
 email: 'contact@cryptoms.fr'
+google_analytics: 'UA-170496780-1'
 
 # Authors
 authors:

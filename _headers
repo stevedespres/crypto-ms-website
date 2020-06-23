@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src *; script-src *; connect-src *; img-src *; frame-src *; style-src *;
+  Content-Security-Policy: default-src 'self' 'unsafe-inline' *.google-analytics.com *.youtube.com ajax.googleapis.com cdnjs.cloudflare.com cdnjs.com code.jquery.com maxcdn.bootstrapcdn.com; font-src 'self' fonts.googleapis.com fonts.gstatic.com;
   X-WebKit-CSP: default-src *
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer

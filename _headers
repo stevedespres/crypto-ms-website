@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self' 'unsafe-inline' *.google-analytics.com *.youtube.com ajax.googleapis.com cdnjs.cloudflare.com cdnjs.com code.jquery.com maxcdn.bootstrapcdn.com; font-src 'self' fonts.googleapis.com fonts.gstatic.com;
+  Content-Security-Policy: default-src 'self' 'unsafe-inline' s3.tradingview.com www.gravatar.com *.youtube.com www.google.com fonts.googleapis.com storage.googleapis.com *.google-analytics.com;
   X-WebKit-CSP: default-src *
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer

@@ -6,7 +6,7 @@ author: steve
 categories: [ economie ]
 image: assets/images/articles/comment-travailler-dans-le-secteur-de-la-blockchain-et-des-cryptomonnaies/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Un secteur en pleine croissance
@@ -14,8 +14,6 @@ featured: true
 Le secteur Blockchain est en **pleine croissance** depuis 2015 ; **les offres d'emploi se multiplient**, tandis que **les profils spécialisés se font rares**.
 
 Vous êtes intéressés par les **opportunités** possibles dans le **secteur Blockchain** ? Wallcrypt propose un **séminaire gratuit** sur le sujet. 
-
-Le webinaire aura lieu le **mardi 30 juin 2020 à 11h00**. 
 
 ### Objectifs du séminaire
 
@@ -34,4 +32,5 @@ Voici le programme de la présentation :
 - Panorama des entreprises qui recrutent
 - Questions - réponses
 
-Vous pouvez dès maintenant vous inscrire au webinaire en suivant ce [lien](https://app.livestorm.co/wallcrypt/les-offres-emploi-dans-la-blockchain-et-la-cryptomonnaie). 
+La rediffusion de ce webinaire est disponible.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3eadOjBfT4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

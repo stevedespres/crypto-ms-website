@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/ens.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Un système de nommage sur Blockchain

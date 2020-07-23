@@ -221,4 +221,15 @@
         <news:title>Comment la technologie Blockchain peut-elle améliorer le processus de recrutement ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/07/24/l-emploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>L'emploi dans la Blockchain et la cryptomonnaie "Spécial rédacteurs / journalistes"</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-07-24</news:publication_date> 
+        <news:title>L'emploi dans la Blockchain et la cryptomonnaie "Spécial rédacteurs / journalistes"</news:title> 
+    </news:news> 
+</url>
 </urlset>

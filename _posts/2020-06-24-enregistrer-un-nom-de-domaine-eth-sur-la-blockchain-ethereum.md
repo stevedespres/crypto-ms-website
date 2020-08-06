@@ -26,8 +26,9 @@ Si vous voulez en savoir plus sur les systèmes de nommage sur Blockchain, retro
 
 ENS est un **protocole** de système de nommage **open source**. Aujourd’hui, il existe **plusieurs implémentations** de ce protocole, dont les plus importants sont : 
 -	Le registre **.eth** : proposé par l’équipe d’ENS
--	Le registre **.crypto** : proposé par UnstoppableDomains
--	Le registre **.kred** : proposé par le registre Kred
+-	Le registre **.kred**
+-	Le registre **.luxe**
+
 
 Ces différentes implémentations ont des extensions qui leurs sont propres. Celles-ci ne sont pas reconnues par l'[ICANN](https://fr.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers) et donc, ne sont pas des extensions "officielles".
 

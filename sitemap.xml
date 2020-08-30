@@ -232,4 +232,15 @@
         <news:title>L'emploi dans la Blockchain et la cryptomonnaie "Spécial rédacteurs / journalistes"</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/08/31/investir-dans-l-immobilier-grace-a-la-blockchain.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Investir dans l'immobilier grâce à la Blockchain</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-08-31</news:publication_date> 
+        <news:title>Investir dans l'immobilier grâce à la Blockchain</news:title> 
+    </news:news> 
+</url>
 </urlset>

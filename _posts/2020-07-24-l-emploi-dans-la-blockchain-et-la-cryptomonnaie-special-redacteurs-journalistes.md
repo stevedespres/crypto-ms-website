@@ -6,7 +6,7 @@ author: steve
 categories: [ economie ]
 image: assets/images/articles/lemploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Partage de connaissances
@@ -28,4 +28,6 @@ Voici le programme de la présentation :
 - Où trouver des missions ou des offres d'emploi ?
 - Panorama des entreprises qui recrutent
 
-Inscrivez-vous gratuitement au séminaire en suivant ce [lien](https://app.livestorm.co/wallcrypt/emploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes).
+La rediffusion de ce webinaire est disponible.
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LgnM6qvwi34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

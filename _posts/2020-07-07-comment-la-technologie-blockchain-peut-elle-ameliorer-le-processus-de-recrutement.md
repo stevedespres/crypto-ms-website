@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/comment-la-technologie-blockchain-peut-elle-ameliorer-le-processus-de-recrutement/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Les Digital Credentials

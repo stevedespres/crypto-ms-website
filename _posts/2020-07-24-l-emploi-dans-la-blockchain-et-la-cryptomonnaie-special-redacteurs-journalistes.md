@@ -3,8 +3,8 @@ layout: post-right-sidebar
 title:  "L'emploi dans la Blockchain et la cryptomonnaie \"Spécial rédacteurs / journalistes\""
 description: "Vous souhaitez partager vos connaissances sur les technologies Blockchain, donner de la visibilité à votre profil ou monter en compétences sur la technologie Blockchain et les cryptomonnaies ?"
 author: steve
-categories: [ economie ]
-image: assets/images/articles/lemploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes/1.png
+categories: [ webinaires ]
+image: assets/images/articles/lemploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes/1.jpg
 image_credential: ""
 featured: false
 ---
@@ -29,5 +29,5 @@ Voici le programme de la présentation :
 - Panorama des entreprises qui recrutent
 
 La rediffusion de ce webinaire est disponible.
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LgnM6qvwi34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LgnM6qvwi34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

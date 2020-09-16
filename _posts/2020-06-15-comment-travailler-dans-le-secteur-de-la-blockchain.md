@@ -3,8 +3,8 @@ layout: post-right-sidebar
 title:  "Comment travailler dans le secteur de la Blockchain ?"
 description: "Le secteur Blockchain est en pleine croissance depuis 2015 ; les offres d'emploi se multiplient, tandis que les profils spécialisés Blockchain se raréfient."
 author: steve
-categories: [ economie ]
-image: assets/images/articles/comment-travailler-dans-le-secteur-de-la-blockchain-et-des-cryptomonnaies/1.png
+categories: [ webinaires ]
+image: assets/images/articles/comment-travailler-dans-le-secteur-de-la-blockchain-et-des-cryptomonnaies/1.jpg
 image_credential: ""
 featured: false
 ---

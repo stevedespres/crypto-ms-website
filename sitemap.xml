@@ -189,7 +189,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/economie/2020/06/15/comment-travailler-dans-le-secteur-de-la-blockchain.html</loc>
+<loc>https://cryptoms.fr/webinaires/2020/06/15/comment-travailler-dans-le-secteur-de-la-blockchain.html</loc>
     <news:news> 
         <news:publication>
             <news:name>Comment travailler dans le secteur de la Blockchain ?</news:name> 
@@ -222,7 +222,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/technologie/2020/07/24/l-emploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes.html</loc>
+<loc>https://cryptoms.fr/webinaires/2020/07/24/l-emploi-dans-la-blockchain-et-la-cryptomonnaie-special-redacteurs-journalistes.html</loc>
     <news:news> 
         <news:publication>
             <news:name>L'emploi dans la Blockchain et la cryptomonnaie "Spécial rédacteurs / journalistes"</news:name> 
@@ -233,7 +233,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/technologie/2020/08/31/investir-dans-l-immobilier-grace-a-la-blockchain.html</loc>
+<loc>https://cryptoms.fr/finance/2020/08/31/investir-dans-l-immobilier-grace-a-la-blockchain.html</loc>
     <news:news> 
         <news:publication>
             <news:name>Investir dans l'immobilier grâce à la Blockchain</news:name> 
@@ -244,7 +244,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/technologie/2020/09/10/btu-protocol-une-veritable-innovation-pour-le-pouvoir-d-achat.html</loc>
+<loc>https://cryptoms.fr/economie/2020/09/10/btu-protocol-une-veritable-innovation-pour-le-pouvoir-d-achat.html</loc>
     <news:news> 
         <news:publication>
             <news:name>BTU Protocol : une véritable innovation pour le pouvoir d'achat ?</news:name> 
@@ -252,6 +252,17 @@
         </news:publication> 
         <news:publication_date>2020-09-10</news:publication_date> 
         <news:title>BTU Protocol : une véritable innovation pour le pouvoir d'achat ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/finance/2020/09/17/investir-dans-les-cryptomonnaies.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Investir dans les cryptomonnaies</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-09-17</news:publication_date> 
+        <news:title>Investir dans les cryptomonnaies</news:title> 
     </news:news> 
 </url>
 </urlset>

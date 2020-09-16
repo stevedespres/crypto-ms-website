@@ -21,7 +21,7 @@ Vous vous rendez donc sur leur application pour réserver, vous réglez en **mon
 
 L’avantage présenté est que vous êtes en **relation directe** avec le commerçant. BTU Protocol n'impose **pas de marges** sur les transactions, mais se rémunère via **l’émission de token BTU** ; le commerçant est donc **libre** de ses prix. Les commerçants se dispensent alors des taxes imposées par les plateformes classiques comme Booking ou AirBnb. Présenté ainsi, le projet semble intéressant; vous payez moins cher, vous gagnez en plus des BTU pour consommer chez des partenaires très connus, et vous participez à **libérer les commerçants** de l’oppression des grandes plateformes.
 
-Nous allons être un peu plus critiques sur cette partie. Dans les faits, BTU Protocol est ni plus ni moins une implémentation plus moderne d'un **système de fidélité**, que vous pouvez retrouver dans vos magasins habituels (technologie Blockchain en plus) ou sur les plateformes (comme iGraal par exemple). 
+Nous allons être un peu plus critiques sur cette partie. Dans les faits, BTU Protocol est une implémentation plus moderne d'un **système de fidélité**, que vous pouvez retrouver dans vos magasins habituels (technologie Blockchain en plus) ou sur les plateformes (comme iGraal par exemple). 
 
 Certes, cela peut permettre d’échanger directement avec un commerçant, mais si ce commerçant est lui-même une **plateforme d'intermédiations**, la réservation « en direct » n’est **pas vraiment réelle**. C’est le cas notamment de Carbookr, plateforme de location de véhicules, qui utilise le protocole BTU. En tant qu’utilisateur, vous avez néanmoins l’avantage de pouvoir recevoir des tokens puis de les échanger contre des cartes cadeaux chez des partenaires, ou sur des plateformes de trading. 
 

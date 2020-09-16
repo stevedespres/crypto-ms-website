@@ -177,7 +177,7 @@ section.recent-posts {
 	border-top-left-radius:2px;
 }
 .listfeaturedtag .card-block {
-	padding-left:0;
+    padding-left:0;
 }
 .listfeaturedtag h2.card-title,.listrecent h2.card-title {
 	font-size:1.3rem;
@@ -487,7 +487,7 @@ blockquote {
 		margin-top:30px;
 	}
 	.listfeaturedtag .card-block {
-		padding:20px;
+        padding:20px;
 	}
 }
 @media (max-width:1024px) {
@@ -518,6 +518,7 @@ blockquote {
     margin-bottom: 30px;
     box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.14);
     border:0;
+    height: 450px;
 }
 .card .img-thumb {
 	border-top-right-radius:4px;

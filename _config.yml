@@ -5,7 +5,7 @@ description: "Site internet spécialisé sur les technologies Blockchain & la cr
 meta_description: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 12
+paginate: 8
 baseurl: ''
 true_url: 'https://cryptoms.fr'
 email: 'contact@cryptoms.fr'

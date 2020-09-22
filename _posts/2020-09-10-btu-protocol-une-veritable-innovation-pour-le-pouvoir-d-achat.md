@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/btu-protocol-une-veritable-innovation-pour-le-pouvoir-d-achat/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Présentation de BTU Protocol

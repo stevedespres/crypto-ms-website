@@ -4,14 +4,14 @@
 <div class="card">
     <div class="row">
         <div class="col-md-5 wrapthumbnail">
-            <a href="{{ post.url | absolute_url }}">
+            <a href="{{ post.url | relative_url }}">
             <div class="thumbnail" style="background-image:url({{ site.baseurl }}/{{ post.image }});">
             </div>
             </a>
         </div>
         <div class="col-md-7">
             <div class="card-block">
-                <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                <h2 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
                 <div class="metafooter">
                     <div class="wrapfooter">

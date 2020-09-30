@@ -6,7 +6,7 @@ author: steve
 categories: [ webinaires ]
 image: assets/images/articles/formation-a-distance-les-atouts-de-la-blockchain/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Webinaire Wallcrypt

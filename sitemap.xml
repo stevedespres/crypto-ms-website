@@ -269,11 +269,22 @@
 <loc>https://cryptoms.fr/webinaires/2020/09/22/formation-en-ligne-les-atouts-de-la-blockchain.html</loc>
     <news:news> 
         <news:publication>
-            <news:name>Formation en ligne: les atouts de la Blockchain</news:name> 
+            <news:name>Formation en ligne : les atouts de la Blockchain</news:name> 
             <news:language>fr</news:language>
         </news:publication> 
         <news:publication_date>2020-09-22</news:publication_date> 
         <news:title>Formation en ligne: les atouts de la Blockchain</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/10/01/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>L'identité décentralisée : reprenez le contrôle sur vos données</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-10-01</news:publication_date> 
+        <news:title>L'identité décentralisée : reprenez le contrôle sur vos données</news:title> 
     </news:news> 
 </url>
 </urlset>

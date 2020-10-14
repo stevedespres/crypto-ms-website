@@ -6,7 +6,7 @@ author: steve
 categories: [ finance ]
 image: assets/images/articles/investir-dans-les-cryptomonnaies/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Pourquoi investir ?

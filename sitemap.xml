@@ -266,7 +266,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/webinaires/2020/09/22/formation-en-ligne-les-atouts-de-la-blockchain.html</loc>
+<loc>https://cryptoms.fr/webinaires/2020/09/22/formation-a-distance-les-atouts-de-la-blockchain.html</loc>
     <news:news> 
         <news:publication>
             <news:name>Formation en ligne : les atouts de la Blockchain</news:name> 
@@ -285,6 +285,17 @@
         </news:publication> 
         <news:publication_date>2020-10-01</news:publication_date> 
         <news:title>L'identité décentralisée : reprenez le contrôle sur vos données</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/economie/2020/10/15/entreprises-en-difficulte-prendre-en-compte-des-immobilisations-tokenisees.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Entreprises en difficulté : prendre en compte des immobilisations tokenisées ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-10-15</news:publication_date> 
+        <news:title>Entreprises en difficulté : prendre en compte des immobilisations tokenisées ?</news:title> 
     </news:news> 
 </url>
 </urlset>

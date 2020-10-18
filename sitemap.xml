@@ -298,4 +298,15 @@
         <news:title>Entreprises en difficulté : prendre en compte des immobilisations tokenisées ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/webinaires/2020/10/19/blockchain-et-seo-quels-sont-les-impacts.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Blockchain et SEO : quels sont les impacts ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-10-19</news:publication_date> 
+        <news:title>Blockchain et SEO : quels sont les impacts ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

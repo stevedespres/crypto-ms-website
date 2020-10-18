@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Le lien entre le réel et le virtuel

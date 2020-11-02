@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' s3.tradingview.com fonts.gstatic.com www.gstatic.com maxcdn.bootstrapcdn.com s.tradingview.com www.gravatar.com *.youtube.com www.google.com fonts.googleapis.com storage.googleapis.com *.google-analytics.com platform.twitter.com  cdn.syndication.twimg.com;
+  Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' s3.tradingview.com fonts.gstatic.com www.gstatic.com maxcdn.bootstrapcdn.com s.tradingview.com www.gravatar.com *.youtube.com www.google.com fonts.googleapis.com storage.googleapis.com *.google-analytics.com platform.twitter.com  *.twimg.com;
   X-WebKit-CSP: default-src *
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer

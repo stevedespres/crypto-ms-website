@@ -6,7 +6,7 @@ author: steve
 categories: [ webinaires ]
 image: assets/images/articles/blockchain-et-seo-quels-sont-les-impacts/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Webinaire Wallcrypt

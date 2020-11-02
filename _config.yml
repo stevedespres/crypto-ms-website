@@ -5,7 +5,7 @@ description: "Site internet spécialisé sur les technologies Blockchain & la cr
 meta_description: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 8
+paginate: 10
 baseurl: ''
 true_url: 'https://cryptoms.fr'
 email: 'contact@cryptoms.fr'
@@ -19,7 +19,7 @@ authors:
     gravatar: 5acfe966ca013f83ef68213dd2e5ec56
     email: steve.despres@protonmail.com
     web: https://cryptoms.fr/apropos
-    twitter: https://twitter.com/_SteveD
+    twitter: https://twitter.com/steve_dsp
     description: "Développeur & passionné par les technologies Blockchain"
   marvin:
     name: Marvin Beaufort

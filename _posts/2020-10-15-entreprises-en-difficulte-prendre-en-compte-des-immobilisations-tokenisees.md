@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/entreprises-en-difficulte-prendre-en-compte-des-immobilisations-tokenisees/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Tokenisation et liquidité

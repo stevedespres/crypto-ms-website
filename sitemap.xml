@@ -320,4 +320,15 @@
         <news:title>Le vote sur Blockchain : pour ou contre ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/11/12/la-desintermediation-une-aide-pour-le-pays.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>La désintermédiation : une aide pour le pays ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-11-12</news:publication_date> 
+        <news:title>La désintermédiation : une aide pour le pays ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

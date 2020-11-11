@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  "Le vote sur Blockchain : pour ou contre ?"
-description: "La tokenisation est la création de la représentation numérique d’un actif sur une Blockchain. La liquidité est l'un des principaux avantages de la tokenisation."
+description: "Le vote est une méthode permettant à un groupe de prendre une décision commune. Dans notre société, nous sommes habitués à cette pratique pour toutes sortes de décisions."
 author: steve
 categories: [ technologie ]
 image: assets/images/articles/le-vote-sur-blockchain-pour-ou-contre/1.png

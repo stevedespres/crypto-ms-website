@@ -67,4 +67,5 @@ Questions - Réponses (10 minutes)
 
 [KRYPTOSPHERE®](https://kryptosphere.org/)
 
-[Inscrivez-vous au webinaire du Jeudi 22 octobre 2020, à 11h00.](https://app.livestorm.co/wallcrypt/blockchain-et-seo-quels-sont-les-impacts?email=steve.despres%40protonmail.com&utm_source=Livestorm+email+invitation)
+La rediffusion de ce webinaire est disponible.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EeNwrQabAng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

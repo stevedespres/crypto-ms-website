@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/le-vote-sur-blockchain-pour-ou-contre/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Le vote, outil de prise de décisions

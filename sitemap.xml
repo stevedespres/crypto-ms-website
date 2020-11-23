@@ -321,7 +321,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/technologie/2020/11/12/la-desintermediation-une-aide-pour-le-pays.html</loc>
+<loc>https://cryptoms.fr/economie/2020/11/12/la-desintermediation-une-aide-pour-le-pays.html</loc>
     <news:news> 
         <news:publication>
             <news:name>La désintermédiation : une aide pour le pays ?</news:name> 
@@ -329,6 +329,17 @@
         </news:publication> 
         <news:publication_date>2020-11-12</news:publication_date> 
         <news:title>La désintermédiation : une aide pour le pays ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/11/24/ethereum-2.0-ce-qu-il-faut-savoir.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Ethereum 2.0 : ce qu'il faut savoir</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-11-24</news:publication_date> 
+        <news:title>Ethereum 2.0 : ce qu'il faut savoir</news:title> 
     </news:news> 
 </url>
 </urlset>

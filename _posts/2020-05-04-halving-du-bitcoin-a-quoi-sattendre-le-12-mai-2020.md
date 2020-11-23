@@ -27,15 +27,7 @@ Ce mécanisme s’appuie sur la réduction de la récompense attribuée aux mine
 
 A terme, l’offre totale sera de **21.000.000** de BTC. Les derniers bitcoins seront minés en 2140 et les mineurs seront ensuite récompensés qu'avec les **frais des transactions** effectuées sur le réseau.
 
-La **réduction de l’émission** s’effectue lors d’un événement appelé **Halving**, dont le prochain doit se produire le **12 mai prochain** :
-
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
-    width="300"
-    height="220"
-    scrolling="no"
-    src="https://www.bitcoinblockhalf.com/">
-</iframe>
+La **réduction de l’émission** s’effectue lors d’un événement appelé **Halving**, dont le prochain doit se produire le **12 mai prochain**.
 
 ### À quoi s’attendre ?
 

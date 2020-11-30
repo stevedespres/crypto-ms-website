@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/la-desintermediation-une-aide-pour-le-pays/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Émission de monnaie et aides financières

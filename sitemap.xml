@@ -342,4 +342,15 @@
         <news:title>Ethereum 2.0 : ce qu'il faut savoir</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/evenements/2020/12/01/jeco-2020-quand-les-banques-parlent-de-monnaies-numeriques.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>[JECO 2020] Quand les banques parlent de monnaies numériques</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-12-01</news:publication_date> 
+        <news:title>[JECO 2020] Quand les banques parlent de monnaies numériques</news:title> 
+    </news:news> 
+</url>
 </urlset>

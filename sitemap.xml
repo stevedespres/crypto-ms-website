@@ -90,13 +90,13 @@
     </news:news> 
 </url>
 <url>
-    <loc>https://cryptoms.fr/evenements/2020/02/24/paris-blockchain-week-summit-2020.html</loc>
+    <loc>https://cryptoms.fr/evenements/2020/12/07/paris-blockchain-week-summit-2020.html</loc>
     <news:news> 
         <news:publication>
             <news:name>Paris Blockchain Week Summit: 9 - 10 décembre 2020</news:name> 
             <news:language>fr</news:language>
         </news:publication> 
-        <news:publication_date>2020-02-24</news:publication_date> 
+        <news:publication_date>2020-12-07</news:publication_date> 
         <news:title>Paris Blockchain Week Summit: 9 - 10 décembre 2020</news:title> 
     </news:news> 
 </url>
@@ -351,6 +351,17 @@
         </news:publication> 
         <news:publication_date>2020-12-01</news:publication_date> 
         <news:title>[JECO 2020] Quand les banques parlent de monnaies numériques</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/webinaires/2020/12/14/la-blokchain-et-l-industrie-du-luxe.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>La Blockchain et l'industrie du luxe</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-12-14</news:publication_date> 
+        <news:title>La Blockchain et l'industrie du luxe</news:title> 
     </news:news> 
 </url>
 </urlset>

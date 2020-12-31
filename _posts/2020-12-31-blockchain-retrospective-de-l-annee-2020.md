@@ -169,6 +169,8 @@ Nous vous proposons dans cet article une **rétrospective** des faits qui ont ma
 
 -  Binance diffuse des **publicités pour Bitcoin** aux arrêts de bus de **Londres**. [[>>]](https://cryptoast.fr/binance-diffuse-des-publicites-pour-le-bitcoin-btc-londres/)
 
+- La **Commission Européenne** envisage un projet de lois dédié aux "**marchés sur crypto-actifs**", baptisé "**MiCA**". Ce règlement prévoit notamment un encadrement des **ICO** (Initial Coin Offering), des **PSAN** (Préstataires de Services sur Actifs Numériques) et des **stablecoins**. [[>>]](https://www.gide.com/fr/actualites/finance-digitale-et-crypto-actifs-la-commission-europeenne-innove-en-publiant-une?fbclid=IwAR3uGIKfMx3MctjOC6Bl1jzoSfQJ2YzaaExNna-DE8sLQjTqTNqDIQ-COxs) [[>>]](https://www.amf-france.org/fr/actualites-publications/prises-de-parole/discours-de-cloture-de-robert-ophele-president-de-lamf-forum-fintech-acpr-amf-mardi-12-octobre-2020?fbclid=IwAR3aOBK0Mg0Xp-52UaTe2eCzFUvj4-q2EY1no-m_HFLLpUAfq05MDtFwq7g#:~:text=Le%20r%C3%A8glement%20europ%C3%A9en%20MiCA%2C%20pour,sur%20actifs%20num%C3%A9riques%2C%20nos%20PSAN.&text=C'est%20%C3%A9galement%20attendu%20par,services%20sur%20crypto%2Dactifs%20europ%C3%A9ens)  [[>>]](https://www.banque-france.fr/intervention/crypto-actifs-stablecoins-et-banques-centrales-risques-enjeux-et-perspectives-0?fbclid=IwAR2TZ_5DIwPlnq8th0tVTJ3t4_jTOEh2dqGetLSk7_2Vri-HXoPb05kAWHo)
+
 - **Uniswap** réalise un **airdrop de 400 UNI** vers tous les utilisateurs de l’application. Cela représente, sur le moment, plus de **1500$ offert**. [[>>]](https://www.thecointribune.com/actualites/airdrop-massif-de-500000000-de-dollars-les-coulisses-dun-braquage-a-la-licorne-uniswap-uni/)
 
 - Les sommes moyennes échangées avec le **stablecoins Tether (USDT)** dépassent celles de **PayPal et de Bitcoin**. [[>>]](https://cryptoast.fr/plus-de-fonds-circulent-maintenant-en-usdt-que-sur-paypal-et-bitcoin/)
@@ -239,6 +241,8 @@ Nous vous proposons dans cet article une **rétrospective** des faits qui ont ma
 - La **SEC** attaque **Ripple** en justice pour **vente illégale de tokens**. La 3e cryptomonnaie en terme de capitalisation voit son cours chuter de plus de 60%, et risque d’être délistée de plusieurs plateformes d’échange. [[>>]](https://cryptoast.fr/sec-attaque-ripple-justice-cours-xrp-effrondre-delistings/)
 
 - Les données des clients de **Ledger**, qui avaient été volées en été, sont **rendues publiques** sur des forums. **270 000 clients** ont vu leur nom, adresse mail, adresse postale et numéro de téléphone fuités. Les campagnes de phishing se multiplient depuis ces derniers mois. [[>>]](https://bitcoin.fr/les-donnees-clients-derobees-a-ledger-divulguees-sur-un-forum/)
+
+- La **Paris Blockchain Week Summit** a lieu dans un format 100% virtuel. Le plus grand évenement Blockchain en Europe a réunit plus de **200 intervenants** et plus de **2000 participants**. [[>>]](https://www.pbwsummit.com/)
 
 - **Coinbase** prépare son **introduction en bourse**. [[>>]](https://cryptonaute.fr/lexchange-coinbase-se-prepare-a-entrer-en-bourse/)
 

@@ -354,7 +354,7 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/webinaires/2020/12/14/la-blokchain-et-l-industrie-du-luxe.html</loc>
+<loc>https://cryptoms.fr/webinaires/2020/12/14/la-blockchain-et-l-industrie-du-luxe.html</loc>
     <news:news> 
         <news:publication>
             <news:name>La Blockchain et l'industrie du luxe</news:name> 
@@ -362,6 +362,17 @@
         </news:publication> 
         <news:publication_date>2020-12-14</news:publication_date> 
         <news:title>La Blockchain et l'industrie du luxe</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/actualites/2020/12/31/blockchain-et-cryptomonnaies-retrospective-2020.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Blockchain et cryptomonnaies : rétrospective 2020</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-12-31</news:publication_date> 
+        <news:title>Blockchain et cryptomonnaies : rétrospective 2020</news:title> 
     </news:news> 
 </url>
 </urlset>

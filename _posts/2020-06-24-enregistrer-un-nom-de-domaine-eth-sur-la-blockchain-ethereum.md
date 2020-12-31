@@ -59,38 +59,38 @@ Pour cet exemple, nous avons utilisé My Ether Wallet (MEW).
  
 Prenez les mesures adéquates pour **ne pas perdre les accès** de votre portefeuille. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step1.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step1.png)
 
 **2- Approvisionner votre portefeuille en ethers (ETH)**
 
 Il faut une **somme suffisante d’ethers (ETH)** sur votre portefeuille pour permettre l’enregistrement d’un nom.
 Il est possible d’acheter de l’ether (ETH) **directement sur MEW** ou sur des **plateformes d’échanges** (Coinbase, Binance, Kraken, Paymium et de nombreuses autres). 
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step2.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step2.png)
 
 **3- Rechercher un nom disponible**
 
 MEW propose un **gestionnaire de noms ENS** (ENS Manager). À partir de celui-ci, il est possible de rechercher des noms .eth
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step3.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step3.png)
 
 **4- Enregistrement d’un nom**
 
 Il faut ensuite choisir la **durée d’enregistrement** du nom. Une fois cette durée dépassée, le nom sera de nouveau disponible à l’enregistrement pour tout le monde. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step4.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step4.png)
 
 Pour enregistrer un nom, une **première transaction** doit être réalisée. Cette transaction n’utilise **aucun ether (ETH)** mis à part les frais de transaction. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step5.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step5.png)
  
 Il faut ensuite **attendre 2-3 minutes**. Ce temps d’attente avant de pouvoir confirmer l’enregistrement du nom est prévu au cas où une autre personne enregistre le nom au même moment. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step6.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step6.png)
  
 Puis il faut **confirmer l’enregistrement du nom**. Cette fois, la valeur du nom (ici 5$ d’ethers) est envoyée. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step7.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step7.png)
  
 Le nom est maintenant **enregistré sur la Blockchain** et **visible dans l’interface de MEW**. L’adresse publique de notre portefeuille est par défaut associée à ce nom.
 
@@ -98,7 +98,7 @@ On peut le vérifier sur ce site **Ethereum Name Service Lookup** (EWHOIS) :
 
 [https://etherscan.io/enslookup](https://etherscan.io/enslookup)
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/lookup.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/lookup.png)
 
 **5- Gérer le nom** 
 
@@ -106,15 +106,15 @@ On peut le vérifier sur ce site **Ethereum Name Service Lookup** (EWHOIS) :
 
 _Association d’un portefeuille de cryptomonnaies_
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step8.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step8.png)
 
 _Ajout d’un record_
  
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step9.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step9.png)
 
 _Transfert de la propriété_
 
-![walking]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step10.png)
+![]({{ site.baseurl }}/assets/images/articles/enregistrer-un-nom-de-domaine-sur-la-blockchain-ethereum/step10.png)
  
 Il est aussi possible de créer des sous-domaines.
 

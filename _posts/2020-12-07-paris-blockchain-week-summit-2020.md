@@ -6,7 +6,7 @@ author: steve
 categories: [ evenements ]
 image: assets/images/articles/paris-blockchain-week-summit-2020/PBWS.png
 image_credential: "Paris Blockchain Week Summit 2020"
-featured: true
+featured: false
 ---
 
 ### Seconde édition
@@ -19,7 +19,7 @@ Lancée pour la première fois en avril 2019, PBWS a été la première grande c
 
 [Vous pouvez retrouver l'ensemble des intervenants sur le site de la PBWS](https://pbwsummit.com/speakers)
 
-![walking]({{ site.baseurl }}/assets/images/articles/paris-blockchain-week-summit-2020/speakers.png)
+![]({{ site.baseurl }}/assets/images/articles/paris-blockchain-week-summit-2020/speakers.png)
 
 ### Programmation
 

@@ -35,7 +35,7 @@ Gitcoin propose plusieurs types de services :
 
 - **Kudos** : système communautaire permettant aux utilisateurs de créer et s’échanger des « badges », appelés Kudos. Ces badges sont en réalité des tokens non fongible (NFT), ayant une valeur réelle en ether. Les utilisateurs peuvent mettre en avant leurs compétences via les Kudos qu’ils ont obtenus lors de leurs contributions. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/gitcoin-kudos.png)
+![]({{ site.baseurl }}/assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/gitcoin-kudos.png)
 
 Les possibilités offertes par Gitcoin sont **nombreuses**. Il y a actuellement un hackathon sur le développement de solutions pour lutter contre le Covid19, un Quest pour en apprendre plus sur Ethereum Name Service ou encore des demandes de levées de fonds pour des projets de la finance décentralisée (Defi). Vous pouvez explorer les différents projets en cours à cette adresse : 
 [https://gitcoin.co/explorer](https://gitcoin.co/explorer)
@@ -46,10 +46,10 @@ Si on vous présente Gitcoin, c’est aussi parce que cet écosystème **prend d
 
 Rien qu’en avril 2020, la plateforme a permis un transfert de valeur de plus de **600 000 $** entre les utilisateurs. Cela représente une moyenne de **900$ / heures** de travail réalisées par les contributeurs.
 
-![walking]({{ site.baseurl }}/assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/gitcoin-value.png)
+![]({{ site.baseurl }}/assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/gitcoin-value.png)
 
 Depuis sa création en 2017, la plateforme compte une moyenne de plus de **28 000 utilisateurs actifs par mois**, plus de **48 000 transactions** (4,6 millions de $) et plus de **3500 projets**. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/gitcoin-stats.png)
+![]({{ site.baseurl }}/assets/images/articles/gitcoin-une-nouvelle-maniere-de-contribuer-a-des-projets-open-source/gitcoin-stats.png)
 
 Gitcoin offre une **nouvelle façon de contribuer** à la croissance de projets open source. Elle est plutôt en bonne voie pour s’inscrire en tant que **référence** pour les développeurs d’application **Blockchain et du Web 3.0**.

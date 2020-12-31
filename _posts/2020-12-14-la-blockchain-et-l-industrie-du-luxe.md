@@ -63,4 +63,5 @@ Questions - Réponses (10 minutes)
 
 [KRYPTOSPHERE®](https://kryptosphere.org/)
 
-Vous pouvez vous inscire à ce webinaire en suivant ce [lien](https://app.livestorm.co/wallcrypt/blockchain-industrie-du-luxe).
+La rediffusion de ce webinaire est disponible.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mo1IONzsxWk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

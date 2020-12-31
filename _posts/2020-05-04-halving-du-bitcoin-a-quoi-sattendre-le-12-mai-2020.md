@@ -23,7 +23,7 @@ Les **mineurs** sont en effet **rémunérés en bitcoin** en échange de leur tr
 
 Ce mécanisme s’appuie sur la réduction de la récompense attribuée aux mineurs, donc de la diminution de l’émission de BTC sur le marché. Chaque 210 000 blocs minés, la récompense est divisée par deux. L’objectif est de réduire l’inflation. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/inflation.png)
+![]({{ site.baseurl }}/assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/inflation.png)
 
 A terme, l’offre totale sera de **21.000.000** de BTC. Les derniers bitcoins seront minés en 2140 et les mineurs seront ensuite récompensés qu'avec les **frais des transactions** effectuées sur le réseau.
 
@@ -35,7 +35,7 @@ La **réduction de l’émission** s’effectue lors d’un événement appelé 
 
 Voici le cours du Bitcoin avec les dates des précédants Halving : 
 
-![walking]({{ site.baseurl }}/assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/halving.png)
+![waling]({{ site.baseurl }}/assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/halving.png)
 
 À première vue, nous pouvons espérer que le même phénomène se reproduise. Cependant, ce n’est pas si simple que ça. Le prix du Bitcoin **ne dépend pas seulement de l'émission à chaque bloc**, et le **contexte actuel** est aussi différent de celui des précédents Halvings. 
 
@@ -59,7 +59,7 @@ L’objectif des mineurs est de **rester rentables** avant tout. Leurs charges d
 
 La **difficulté de minage**, donc **l’énergie à utiliser** pour valider les blocs, dépends du [Hash Rate](https://fr.cryptonews.com/exclusives/qu-est-ce-que-le-hash-rate-2409.htm) total sur le réseau. La difficulté **s’adapte automatiquement toutes les deux semaines environ**. Pour faire simple, plus il y a de mineurs, plus le Hash Rate augmente et donc plus la difficulté et les coûts de minage augmentent.
 
-![walking]({{ site.baseurl }}/assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/hashrate.png)
+![]({{ site.baseurl }}/assets/images/articles/halving-du-bitcoin-a-quoi-sattendre-le-12-mai-2020/hashrate.png)
 
 Aujourd’hui, le Hash Rate total sur le réseau est [cent fois plus élevé qu’en 2016](https://www.blockchain.com/charts/hash-rate). Cela s’explique par **l’arrivée de nombreux acteurs**, mais aussi par la **hausse de la puissance du matériel** de minage (notamment les [ASIC](https://www.toutsurlebitcoin.fr/gros-plan-sur-les-asics-dedies-au-minage.htm)).
 

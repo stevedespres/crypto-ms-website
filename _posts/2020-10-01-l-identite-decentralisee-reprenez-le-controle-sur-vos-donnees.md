@@ -16,7 +16,7 @@ L’**identité numérique** permet de faire un **lien technologique** entre une
 Une identité numérique est généralement associée à un **identifiant unique**, qui peut être lié à des données personnelles, descriptives ou encore biométriques. Il n’y a pas de modèle **exact et limité**, tout type d’information peut être utilisé pour identifier une entité.
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/Identities.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/Identities.png)
 &nbsp;
 
 Les systèmes d’identité actuels sont nombreux et généralement gérés de manière **centralisée**. Chaque site Web, réseau social ou service public utilise **un système d’identification** des utilisateurs. Les identités sont soit gérées sur leur propre infrastructure informatique, soit par un service tiers (“se connecter avec Google, Twitter, Facebook, France Connect”). Les données enregistrées par les utilisateurs se retrouvent donc **démultipliées** sur une multitude de bases de données. 
@@ -59,7 +59,7 @@ D’un point de vue légal, en Europe, cela doit respecter les cadres mis en pla
 
 [**Règlement eiDAS**](https://www.ssi.gouv.fr/entreprise/reglementation/confiance-numerique/le-reglement-eidas/) qui définit un cadre légal sur les signatures électroniques.
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/eidas.png){:height="120px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/eidas.png){:height="120px" width="120px"}
  
 
 Il ne faut pas oublier que le concept d’identité auto-souveraine redonne du contrôle aux utilisateurs, mais leur donne aussi de **nouvelles responsabilités**. Ils doivent être en mesure de gérer leur identité numérique et les données transmises aux services. La perte de la clé privée permettant d'accéder et de contôler son profil peut être irrémédiable. Il faut donc que le système soit **simple** pour qu’un utilisateur lambda puisse le comprendre et l’utiliser; **la complexité technique doit être invisible**.
@@ -81,7 +81,7 @@ Le **chiffrement asymétrique** repose sur un mécanisme de **clés publiques / 
 La clé privée peut être utilisée pour chiffrer des données, et la clé publique pour les déchiffrer. 
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/Chiffrement.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/Chiffrement.png)
 &nbsp;
 
 C’est avec ce concept qu’il est possible de réaliser des **signatures numériques**. 
@@ -92,7 +92,7 @@ Pour cela, une “**empreinte**” des données est générée à l’aide d’u
 Pour vérifier cette signature, il faut la déchiffrer avec la clé publique pour obtenir l’empreinte originale. Il suffit ensuite de vérifier si cette empreinte est identique à celle des données. 
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/Signature.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/Signature.png)
 &nbsp;
 
 De ces manières, des données peuvent être signées/chiffrées par la personne ou l’organisme qui disposent de la clé privée, et authentifiées/déchiffrées par quiconque qui dispose de la clé publique. 
@@ -118,7 +118,7 @@ Pour cela, Alice et Bob vont répéter plusieurs fois ces étapes :
 - **Réponse** : Alice doit sortir par le chemin donné par Bob.
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/ZKP.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/ZKP.png)
 &nbsp;
 
 Si Alice sort par le mauvais chemin, c’est une **preuve de non-connaissance** : elle ne connaît pas le mot secret. 
@@ -136,7 +136,7 @@ L’échange de données se déroule de cette manière :
 - Bob va ensuite pouvoir **vérifier** la réponse grâce à la preuve, **sans jamais accéder aux données privées**.
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/ZKP2.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/ZKP2.png)
 &nbsp;
 
 
@@ -153,7 +153,7 @@ L’objectif est de **garantir** à un service, **la validité d’une informati
 Les titulaires de Verifiable Credentials peuvent **générer des présentations** (document représentatif) et les partager. Ces présentations sont vérifiables grâce à de la signature numérique, et peuvent donc **prouver les informations** qu’elles contiennent. 
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/VerifiableCredential.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/VerifiableCredential.png)
 &nbsp;
 
 Le modèle de données proposé s'appuie sur quatre composants:
@@ -176,7 +176,7 @@ L’idée est d’avoir des **identifiants uniques** (DID) déployés sur un **r
 Un DID est lié à un **document** qui contient des informations complémentaires, et ce document est géré par un **contrôleur**.
 
 &nbsp;
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/DID.png)
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/DID.png)
 &nbsp;
 
 L’architecture fait intervenir plusieurs composants.
@@ -231,13 +231,13 @@ Plusieurs projets sont aujourd’hui en cours de développement pour proposer, �
 
 - [**Decentralized Identity Foundation (DIF)**](https://identity.foundation/)
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/dif.png){:height="100px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/dif.png){:height="100px" width="120px"}
 
 Composée de nombreux membres et partenaires importants (Consensys, Microsoft, Hyperledger, Accenture, etc.), la fondation de l’identité décentralisée dispose de plusieurs groupes de travail sur différents sujets. Elle organise aussi plusieurs évenements comme des conférences, des webinaires et des workshops.
 
 - [**European self-sovereign identity framework (ESSIF)**](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eID) 
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/essif.png){:height="100px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/essif.png){:height="100px" width="120px"}
 
 eID est le projet d’identité numérique à l’initiative de la Commission européenne et du partenariat européen de la Blockchain (EBP). L’objectif est de développer un système d’identité pour tous les citoyens de l’Union européenne. 
 
@@ -245,7 +245,7 @@ Dans le cadre de ce projet, un framework d’identité auto-souveraine (European
 
 - [**Univsersal Name System - Unikname**](https://www.unikname.com/)
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/uns.png){:height="120" width="160"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/uns.png){:height="120" width="160"}
 
 UNS Network est un réseau décentralisé pour la gestion des identités numériques. Leur Blockchain publique est basée sur Ark. 
 Plusieurs applications utilisant ce réseau sont en cours de développement :
@@ -256,38 +256,38 @@ Plusieurs applications utilisant ce réseau sont en cours de développement :
 
 - [**Microsoft : Identity Overlay Network (ION)**](https://github.com/decentralized-identity/ion)
  
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/ion.png){:height="100" width="120"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/ion.png){:height="100" width="120"}
 
 Microsoft développe une infrastructure d’identité publique et décentralisée (réseau de DID) basée sur le protocole SideTree et déployée sur Bitcoin (Blockchain publique) : [Identity Overlay Network](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/toward-scalable-decentralized-identifier-systems/ba-p/560168). Elle utilise notamment le protocole IPFS pour le stockage décentralisé des données.
 [La version bêta a été déployée en juin 2020 sur Bitcoin.](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-booting-up-the-network/ba-p/1441552#)
 
 - [**ERC725 Alliance - Ethereum Identity Standard**](https://erc725alliance.org/)
  
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/erc725.png){:height="100px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/erc725.png){:height="100px" width="120px"}
 
 C'est un standard sur Ethereum (Blockchain publique) pour pouvoir mettre en place un système d’identité auto-souveraine sur Blockchain via l’utilisation de Smart Contracts. Ce standard a été initié par Faban Vogelsteller, le créateur du standard ERC20 (token) et de Web3.js.
 
 - [**uPort**](https://www.uport.me/)
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/uport.png){:height="100px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/uport.png){:height="100px" width="120px"}
 
 uPort, soutenu par **Consensys**, développe un protocole open source permettant la mise en place d’identités décentralisées et l’échange de données de manière simple, sécurisée et en préservant la confidentialité. Le protocole s’appuie sur la Blockchain Ethereum (publique).
 
 - [**Hyperledger Identity Working Group**](https://confluence.hyperledger.org/display/IWG)
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/hyperledger.jpg){:height="200" width="400"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/hyperledger.jpg){:height="200" width="400"}
 
 Groupe de travail focalisé sur l’identité numérique et sur les implémentations dans Hyperledger, notamment sur les projets INDY, ARIES et URSA. Hyperledger est une technologie de registre distribué soutenu par la fondation Linux. (Blockchain privée ou permissionnée)
 
 - [**Sovrin**](https://sovrin.org/)
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/sovrin.png){:height="100px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/sovrin.png){:height="100px" width="120px"}
  
 Réseau et outils destinés au développement d’identités numériques auto-souveraines (SSI). Sovrin est membre et contributeur du Hyperledger Identity Working Group, et les applications sont construites avec les technologies d’Hyperledger (INDY, ARIES et URSA).
 
 - [**Evernym**](https://www.evernym.com)
 
-![walking]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/evernym.png){:height="100px" width="120px"}
+![]({{ site.baseurl }}/assets/images/articles/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees/evernym.png){:height="100px" width="120px"}
 
 Plateforme de gestion d’identité numérique et d’attestations vérifiables (Vérifiable Credentials). Elle utilise notamment le réseau Sovrin et les technologies Hyperledger. Ces solutions sont destinées aux entreprises. 
 

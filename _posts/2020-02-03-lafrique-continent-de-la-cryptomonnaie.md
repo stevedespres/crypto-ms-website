@@ -24,7 +24,7 @@ L’économie du Libéria est donc en partie **dépendante des transactions** is
 
 Selon la Banque Mondiale, c’est d’ailleurs l’Afrique subsaharienne qui est **la région la plus taxée** lors des transferts de fonds entre Banques, avec un taux de 9%. Pour 75 euros, cela représente une transaction banquaire classique de 835 euros. Récemment, pour 75 euros de frais, une transaction évaluée à 1 Milliard d'euros a été réalisée en bitcoin. 
 
-![walking]({{ site.baseurl }}/assets/images/articles/lafrique-continent-de-la-cryptomonnaie/2.png)
+![]({{ site.baseurl }}/assets/images/articles/lafrique-continent-de-la-cryptomonnaie/2.png)
 
 *EAP = Asie de l'Est et Pacifique* 
 

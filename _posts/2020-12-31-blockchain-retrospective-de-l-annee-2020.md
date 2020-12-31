@@ -244,7 +244,7 @@ Nous vous proposons dans cet article une **rétrospective** des faits qui ont ma
 
 ### Un Bilan positif
 
-Cette année 2020 a été mouvementée dans l'écosystème Blockchain. Dans un contexte de **crise sanitaire et économique**, après avoir traversé un **krach** sur les valeurs des cryptomonnaies, le marché des crypto-actifs termine l'année sur un **bilan positif**. 
+Cette année 2020 a été mouvementée pour l'écosystème Blockchain. Dans un contexte de **crise sanitaire et économique**, après avoir traversé un **krach** sur les valeurs des cryptomonnaies, le marché des crypto-actifs termine l'année sur un **bilan positif**. 
 
 La **capitalisation totale** du marché atteint plus de **760 milliards de dollars** (+380% sur l'année), avec un **Bitcoin** proche des **30 000 $** (+390% sur l'année). Bitcoin s’inscrit en tête du classement des investissements les plus rentables de 2020. De nombreux analystes s'attendent à de **fortes hausses** de prix dans les prochains mois, avec une **démocratisation du secteur** toujours plus importante. 
 

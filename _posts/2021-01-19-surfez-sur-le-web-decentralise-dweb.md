@@ -49,7 +49,7 @@ Les **cryptoactifs**, **crypto-monnaies** ou tout autres **tokens** sont des act
 
 #### Les Services
 
-Des services décentralisés se développent aujourd’hui. Dans nos précédents articles, nous avions parlé des [services de noms de domaine](https://cryptoms.fr/technologie/2020/04/09/dns-on-blockchain-prochaine-evolution-des-noms-de-domaine.html) ainsi que des [systèmes d'identité décentralisés](https://cryptoms.fr/technologie/2020/10/01/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees.html). De nombreuses autres applications sont aussi en développement ; navigateurs dweb, moteurs de recherche, places de marché, messageries ou encore plateformes vidéos/audio.
+Des services décentralisés se développent aujourd’hui. Dans nos précédents articles, nous avions parlé des [services de noms de domaine](https://cryptoms.fr/technologie/2020/04/09/dns-on-blockchain-prochaine-evolution-des-noms-de-domaine.html) ainsi que des [systèmes d'identité décentralisés](https://cryptoms.fr/technologie/2020/10/01/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees.html). De nombreuses autres applications sont aussi en développement ; navigateurs dWeb (Brave, Opera mobile, etc.), moteurs de recherche, places de marché, messageries ou encore plateformes vidéos/audio.
 
 Le dWeb ouvre aussi la porte aux [**organisations autonomes décentralisées**](https://fr.wikipedia.org/wiki/Organisation_autonome_d%C3%A9centralis%C3%A9e) (DAO) : ce sont des organisations fonctionnant de manière automatique, transparente, et sans organe central de contrôle. 
 

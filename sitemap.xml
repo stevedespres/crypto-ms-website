@@ -375,4 +375,15 @@
         <news:title>Blockchain et cryptomonnaies : rétrospective 2020</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2021/01/19/surfez-sur-le-Web-decentralise-dweb.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Surfez sur le Web décentralisé (dWeb)</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-01-19</news:publication_date> 
+        <news:title>Surfez sur le Web décentralisé (dWeb)</news:title> 
+    </news:news> 
+</url>
 </urlset>

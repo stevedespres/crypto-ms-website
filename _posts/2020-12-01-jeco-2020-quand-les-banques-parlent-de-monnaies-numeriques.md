@@ -6,7 +6,7 @@ author: marvin
 categories: [ evenements ]
 image: assets/images/articles/jeco-2020-quand-les-banques-parlent-de-monnaies-numeriques/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Monnaie digitale, le nouveau Graal ?

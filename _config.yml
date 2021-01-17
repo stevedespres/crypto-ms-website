@@ -1,11 +1,11 @@
 # Site
 name: "CryptoMS"
-title: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
-description: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
-meta_description: "Site internet spécialisé sur les technologies Blockchain & la crypto-économie"
+title: "Site Web spécialisé sur les technologies Blockchain et les crypto-monnaies"
+description: "Site Web spécialisé sur les technologies Blockchain et les crypto-monnaies"
+meta_description: "Site Web spécialisé sur les technologies Blockchain et les crypto-monnaies"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-paginate: 8
+paginate: 10
 baseurl: ''
 true_url: 'https://cryptoms.fr'
 email: 'contact@cryptoms.fr'
@@ -16,19 +16,19 @@ authors:
   steve:
     name: Steve Despres
     display_name: Steve
-    gravatar: 5acfe966ca013f83ef68213dd2e5ec56
+    gravatar: d514306564cb7b586511e27c8aee0ade
     email: steve.despres@protonmail.com
     web: https://cryptoms.fr/apropos
-    twitter: https://twitter.com/_SteveD
+    twitter: https://twitter.com/steve_dsp
     description: "Développeur & passionné par les technologies Blockchain"
   marvin:
     name: Marvin Beaufort
     display_name: Marvin
-    gravatar: d514306564cb7b586511e27c8aee0ade
+    gravatar: a074b7d806a5b7ea1d60b06f6632622a
     email: marvin.beaufort@orange.fr
     web: https://cryptoms.fr/apropos
     twitter: 
-    description: "Diplômé de Master CCA, Auditeur/Collaborateur Comptable, passionné d'économie et de crypto-économie"
+    description: "Diplômé de Master CCA, Auditeur/Collaborateur Comptable, passionné d'économie et de Crypto-économie"
 
 # Plugins
 url: "https://cryptoms.fr"

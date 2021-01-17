@@ -17,11 +17,11 @@ Les technologies Blockchain reposent en grande partie sur la **force du nombre**
 
 Si elle ne prévient qu’**un seul** de ses voisins, la famille s’expose à un risque quand celui-ci s’absente ou ne surveille plus la maison pour vaguer à ses occupations. Elle s’expose également au **risque** que ce voisin fournisse l’information de son absence à un tiers qui pourrait être malveillant.
 
-![walking]({{ site.baseurl }}/assets/images/articles/les-blockchains-et-la-force-du-nombre/2.png)
+![]({{ site.baseurl }}/assets/images/articles/les-blockchains-et-la-force-du-nombre/2.png)
 
 A contrario, si la famille prévient **l’ensemble de ses voisins**, ceux-ci combleront les manques de chacun. Ainsi, si **un membre s’absente** les autres seront encore là pour surveiller, même s’il est possible que des voisins s’absentent en même temps. Plus les voisins **seront nombreux**, plus **le risque qu’ils soient tous absents en même temps se réduit**.
 
-![walking]({{ site.baseurl }}/assets/images/articles/les-blockchains-et-la-force-du-nombre/3.png)
+![]({{ site.baseurl }}/assets/images/articles/les-blockchains-et-la-force-du-nombre/3.png)
 
 Ce système protège également de possibles **corruptions**. Si votre voisin connait la date de votre absence, il pourrait être tenté d’engager quelqu’un pour vous voler. Dans le cas d’une Blockchain publique, si cela arrivait vous resteriez en sécurité grâce à **la présence des autres voisins**. 
 

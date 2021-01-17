@@ -16,7 +16,7 @@ Le DNS, **système de noms de domaine**, est un service au cœur du fonctionneme
 Lorsqu’un utilisateur saisit une adresse dans son navigateur, c’est donc un **serveur DNS** qui traduit cette adresse humainement compréhensible, en une adresse IP, compréhensible par les ordinateurs et les réseaux. C’est la **résolution DNS**.
 
 
-![walking]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/dns_resolution.png)
+![]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/dns_resolution.png)
 
 Ce système, créé en 1983, est **fondamental** pour le fonctionnement de nombreux services tels que les sites web, les serveurs mails, la téléphonie VoIP et bien d’autres. Il est en **constante évolution** pour répondre à des besoins toujours plus importants en termes de fonctionnalités et de sécurité. En effet, le DNS doit garantir : 
 
@@ -27,7 +27,7 @@ Ce système, créé en 1983, est **fondamental** pour le fonctionnement de nombr
 Le système de noms de domaine est basé sur un **modèle de confiance centralisé**. Il est **distribué** dans le monde entier et géré par différents acteurs de manière **hiérarchique**, en plusieurs niveaux ; un _niveau racine_, un _premier niveau_ où sont gérées les extensions par les registres, puis un _second niveau_ géré par les bureaux d’enregistrement. Le tout est orchestré par l’[ICANN](https://www.icann.org/fr), l’autorité de régulation de l’Internet. 
 
 
-![walking]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/dns_hierarchy.png)
+![]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/dns_hierarchy.png)
 
 Depuis **plus de 30 ans**, de nombreuses extensions et fonctionnalités ont été ajoutées au DNS, ce qui se traduit techniquement par une **hausse de la complexité** des infrastructures. 
 
@@ -42,7 +42,7 @@ Les données sont inscrites sur une Blockchain via des **transactions**. Les tra
 Les règles de validation sont inscrites dans le **protocole** de la Blockchain, que chaque membre du réseau respecte. Pour garantir le respect de ses règles, les protocoles Blockchain s’appuient sur des **algorithmes de consensus**, le plus connu étant le **Proof of Work**. Ces algorithmes garantissent l’**intégrité**, l’**immuabilité** et la **sécurité** des données inscrites sur la Blockchain.
 
 
-![walking]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/blockchain.png)
+![]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/blockchain.png)
 
 La technologie Blockchain répond à plusieurs besoins du DNS :
 - **Disponibilité** : un réseau décentralisé et pair à pair ne peut pas être arrêté. Cela pourrait remplacer ou compléter les infrastructures Anycast.  
@@ -55,7 +55,7 @@ Les données incluent dans les **fichiers de zones DNS**, c’est-à-dire les co
 
 Ces dernières années, avec l'émergence des technologies Blockchain, de **nouveaux moyens d’échange de valeurs** se sont développés, notamment avec la [tokenisation](https://blockchainfrance.net/2018/05/22/comprendre-la-tokenisation/), les **crypto-actifs** et les **applications décentralisées** ([dapps](https://bitconseil.fr/applications-decentralisees-dapp-dapps/)); on parle de [Web 3.0](https://blockchainfrance.net/2018/05/22/comprendre-le-web-decentralise/), ou de l’[Internet de la valeur](https://medium.com/swlh/what-is-the-internet-of-values-3f14b5d35a90).
 
-![walking]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/web3.png)
+![]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/web3.png)
 
 Les [portefeuilles numériques](https://www.journaldunet.fr/patrimoine/guide-des-finances-personnelles/1208977-wallet/) et applications décentralisées fonctionnent avec des **identifiants difficilement lisibles**, comme par exemple _0x483add28edbd9f83fb5db0289c7ed48c83f55982_ pour une adresse de portefeuille. 
 
@@ -70,7 +70,7 @@ Certaines applications proposent de **nouvelles extensions de noms de domaine** 
 Ces applications sont fonctionnelles et l’enregistrement des noms n’est pas contrôlé. Il y a donc beaucoup de cas de **cybersquatting**. Des utilisateurs enregistrent des noms dans l’espoir de les revendre et toucher une plus-value. Cela pose évidemment un problème pour les **titulaires de marques**, et empêchera certainement l’adoption de ces solutions par des entreprises. 
 
 
-![walking]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/logo_dnsblockchain.png)
+![]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/logo_dnsblockchain.png)
 
 D’autres projets proposent des **solutions complémentaires au DNS**. [Ethereum Name Service](https://ens.domains/) (ENS) propose notamment un système de noms sur Blockchain qui s’intègre avec le DNS traditionnel. Si vous êtes titulaire d’un nom de domaine et pouvez le prouver avec un enregistrement DNSSEC, vous pouvez alors enregistrer ce même nom sur le service Blockchain. Cela permet de **cumuler les avantages** du DNS traditionnel et du DNS on Blockchain. 
 

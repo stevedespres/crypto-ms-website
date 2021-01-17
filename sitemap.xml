@@ -90,13 +90,13 @@
     </news:news> 
 </url>
 <url>
-    <loc>https://cryptoms.fr/evenements/2020/02/24/paris-blockchain-week-summit-2020.html</loc>
+    <loc>https://cryptoms.fr/evenements/2020/12/07/paris-blockchain-week-summit-2020.html</loc>
     <news:news> 
         <news:publication>
             <news:name>Paris Blockchain Week Summit: 9 - 10 décembre 2020</news:name> 
             <news:language>fr</news:language>
         </news:publication> 
-        <news:publication_date>2020-02-24</news:publication_date> 
+        <news:publication_date>2020-12-07</news:publication_date> 
         <news:title>Paris Blockchain Week Summit: 9 - 10 décembre 2020</news:title> 
     </news:news> 
 </url>
@@ -266,14 +266,124 @@
     </news:news> 
 </url>
 <url>
-<loc>https://cryptoms.fr/webinaires/2020/09/22/formation-en-ligne-les-atouts-de-la-blockchain.html</loc>
+<loc>https://cryptoms.fr/webinaires/2020/09/22/formation-a-distance-les-atouts-de-la-blockchain.html</loc>
     <news:news> 
         <news:publication>
-            <news:name>Formation en ligne: les atouts de la Blockchain</news:name> 
+            <news:name>Formation en ligne : les atouts de la Blockchain</news:name> 
             <news:language>fr</news:language>
         </news:publication> 
         <news:publication_date>2020-09-22</news:publication_date> 
         <news:title>Formation en ligne: les atouts de la Blockchain</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/10/01/l-identite-decentralisee-reprenez-le-controle-sur-vos-donnees.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>L'identité décentralisée : reprenez le contrôle sur vos données</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-10-01</news:publication_date> 
+        <news:title>L'identité décentralisée : reprenez le contrôle sur vos données</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/economie/2020/10/15/entreprises-en-difficulte-prendre-en-compte-des-immobilisations-tokenisees.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Entreprises en difficulté : prendre en compte des immobilisations tokenisées ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-10-15</news:publication_date> 
+        <news:title>Entreprises en difficulté : prendre en compte des immobilisations tokenisées ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/webinaires/2020/10/19/blockchain-et-seo-quels-sont-les-impacts.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Blockchain et SEO : quels sont les impacts ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-10-19</news:publication_date> 
+        <news:title>Blockchain et SEO : quels sont les impacts ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/11/03/le-vote-sur-blockchain-pour-ou-contre.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Le vote sur Blockchain : pour ou contre ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-11-03</news:publication_date> 
+        <news:title>Le vote sur Blockchain : pour ou contre ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/economie/2020/11/12/la-desintermediation-une-aide-pour-le-pays.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>La désintermédiation : une aide pour le pays ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-11-12</news:publication_date> 
+        <news:title>La désintermédiation : une aide pour le pays ?</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/technologie/2020/11/24/ethereum-2.0-ce-qu-il-faut-savoir.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Ethereum 2.0 : ce qu'il faut savoir</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-11-24</news:publication_date> 
+        <news:title>Ethereum 2.0 : ce qu'il faut savoir</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/evenements/2020/12/01/jeco-2020-quand-les-banques-parlent-de-monnaies-numeriques.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>[JECO 2020] Quand les banques parlent de monnaies numériques</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-12-01</news:publication_date> 
+        <news:title>[JECO 2020] Quand les banques parlent de monnaies numériques</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/webinaires/2020/12/14/la-blockchain-et-l-industrie-du-luxe.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>La Blockchain et l'industrie du luxe</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-12-14</news:publication_date> 
+        <news:title>La Blockchain et l'industrie du luxe</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/actualites/2020/12/31/blockchain-et-cryptomonnaies-retrospective-2020.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Blockchain et cryptomonnaies : rétrospective 2020</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2020-12-31</news:publication_date> 
+        <news:title>Blockchain et cryptomonnaies : rétrospective 2020</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/technologie/2021/01/19/surfez-sur-le-Web-decentralise-dweb.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Surfez sur le Web décentralisé (dWeb)</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-01-19</news:publication_date> 
+        <news:title>Surfez sur le Web décentralisé (dWeb)</news:title> 
     </news:news> 
 </url>
 </urlset>

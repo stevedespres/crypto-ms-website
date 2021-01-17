@@ -47,12 +47,12 @@ Pour information, voici les cours de l’or, du CAC40 et du Bitcoin sur les 5 de
 
 Or / Dollar
 
-![walking]({{ site.baseurl }}/assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/or.png)
+![]({{ site.baseurl }}/assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/or.png)
 
 CAC40 / Euro
 
-![walking]({{ site.baseurl }}/assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/cac40.png)
+![]({{ site.baseurl }}/assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/cac40.png)
 
 Bitcoin / Dollar
 
-![walking]({{ site.baseurl }}/assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/btc.png)
+![]({{ site.baseurl }}/assets/images/articles/bitcoin-valeur-refuge-en-cas-de-crise/btc.png)

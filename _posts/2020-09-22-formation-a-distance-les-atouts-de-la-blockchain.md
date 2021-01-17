@@ -6,7 +6,7 @@ author: steve
 categories: [ webinaires ]
 image: assets/images/articles/formation-a-distance-les-atouts-de-la-blockchain/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Webinaire Wallcrypt
@@ -61,7 +61,5 @@ Questions - Réponses (10 minutes)
 
 [KRYPTOSPHERE®](https://kryptosphere.org/)
 
-Inscrivez-vous pour participer au webinaire en suivant ce lien : 
-
-[https://app.livestorm.co/wallcrypt/formation-a-distance-les-atouts-de-la-blockchain](https://app.livestorm.co/wallcrypt/formation-a-distance-les-atouts-de-la-blockchain)
-
+La rediffusion de ce webinaire est disponible.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QNxK_8L9joM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

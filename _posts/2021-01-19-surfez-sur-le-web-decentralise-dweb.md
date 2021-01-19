@@ -4,7 +4,7 @@ title:  "Surfez sur le Web décentralisé (dWeb)"
 description: ""
 author: steve
 categories: [ technologie ]
-image: assets/images/articles/surfez-sur-le-Web-decentralise-dweb/1.jpg
+image: assets/images/articles/surfez-sur-le-web-decentralise-dweb/1.jpg
 image_credential: ""
 featured: true
 ---
@@ -18,7 +18,7 @@ Depuis les années 2000, le web s’est concentré autour d’**entreprises priv
 En centralisant des **millions d’utilisateurs**, ces plateformes concentrent de **plus en plus de pouvoir** en termes de **collecte de données**, d’**influence**, de **distribution d’informations et de valeur**. De plus, l’utilisateur est exposé au risque de **vol de ses données** hébergées sur ces plateformes, de **surveillance** de ses activités et de **censure**. L’arrivée des smartphones n’a fait qu’accentuer cette perte d’autonomie numérique des citoyens, mais aussi des entreprises et des États. En offrant des services utiles tout en pratiquant un marketing fort et un modèle économique basé sur l’utilisateur ("si c'est gratuit, vous êtes le produit"), les **Géants du Web** ont en moins de 20 ans pris le pouvoir sur le **cyberespace**.
 
 {:refdef: style="text-align: center;"}
-![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-Web-decentralise-dweb/reseaux.png){:height="200px" width="400px"}
+![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-web-decentralise-dweb/reseaux.png){:height="200px" width="400px"}
 {: refdef}
 
 ### Le dWeb : une proposition alternative
@@ -30,7 +30,7 @@ Le web décentralisé repose sur des échanges s'effectuant en **pair-à-pair**,
 Cette approche permet de distribuer des données sur plusieurs nœuds du réseau, reliés entre eux en pair-à-pair. Cela offre, par design, plus de **résilience** au système.  
 
 {:refdef: style="text-align: center;"}
-![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-Web-decentralise-dweb/p2p.png){:height="200px" width="600px"}
+![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-web-decentralise-dweb/p2p.png){:height="200px" width="600px"}
 {: refdef}
 
 ### Des technologies prometteuses
@@ -44,7 +44,7 @@ Les **protocoles Blockchain** et **plateformes décentralisées** sont aussi au 
 Les **cryptoactifs**, **crypto-monnaies** ou tout autres **tokens** sont des actifs numériques fonctionnant sur des protocoles Blockchain. Ils peuvent **représenter tout type d'actif**, être **échangés** et **utilisés** dans des applications décentralisées. Ils rendent possible **l’échange de valeur** sur Internet, sans passer par un tiers. Le marché des cryptoactifs est en plein essor, Bitcoin en tête. Ces actifs permettent de concevoir de nouveaux types d’applications et de modèles économiques.
 
 {:refdef: style="text-align: center;"}
-![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-Web-decentralise-dweb/dweb_tech.png){:height="200px" width="600px"}
+![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-web-decentralise-dweb/dweb_tech.png){:height="200px" width="600px"}
 {: refdef}
 
 #### Les Services

@@ -386,4 +386,15 @@
         <news:title>Surfez sur le Web décentralisé (dWeb)</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2021/01/27/ipfs-l-hebergement-de-donnees-en-pair-a-pair.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>IPFS : l'hébergement de données en pair-à-pair</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-01-27</news:publication_date> 
+        <news:title>IPFS : l'hébergement de données en pair-à-pair</news:title> 
+    </news:news> 
+</url>
 </urlset>

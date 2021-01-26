@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/blockchain-et-cryptomonnaies-retrospective-2020/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une année historique

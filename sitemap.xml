@@ -397,4 +397,15 @@
         <news:title>IPFS : l'hébergement de données en pair-à-pair</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/actualites/2021/02/02/inblock-1-actualite-blockchain-et-crypto-janvier-2021.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>inBlock #1 : l'actualité Blockchain et Crypto de janvier 2021</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-01-27</news:publication_date> 
+        <news:title>inBlock #1 : l'actualité Blockchain et Crypto de janvier 2021</news:title> 
+    </news:news> 
+</url>
 </urlset>

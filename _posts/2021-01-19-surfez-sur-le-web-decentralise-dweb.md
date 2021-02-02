@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/surfez-sur-le-web-decentralise-dweb/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Après les 30 ans du Web 

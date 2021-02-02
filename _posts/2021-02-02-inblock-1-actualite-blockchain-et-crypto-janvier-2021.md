@@ -39,7 +39,7 @@ Suite à cette action, la communauté Reddit **WallStreetBets** s’est fait con
 
 ### Les institutionnels toujours dans la course
 
-Le gestionnaire d’actifs **Grayscale** continue d’investir dans les crypto-actifs. En ce mois de janvier, il [a acheté **16 244 bitcoins**](https://cointelegraph.com/news/pay-attention-grayscale-adds-18x-the-bitcoin-mined-supply-in-one-day) supplémentaires, pour plus de **600 millions de dollars**. Grayscale aurait en sa possession plus de **3% de l'offre de bitcoins** en circulation. On apprend que la société lance aussi des produits autour de 6 autres crypto-actifs](https://www.theblockcrypto.com/linked/92919/grayscale-trust-incorporation-polkadot-aave?utm_source=cryptopanic&utm_medium=rss); Aave, Cardano, Cosmos, Eos, Polkadot et Monero. **BlackRock**, le plus grand gestionnaire d’actifs au monde, ainsi que la banque **Goldman Sachs**, devraient à leur tour proposer des produits financiers basés sur des crypto-actifs.
+Le gestionnaire d’actifs **Grayscale** continue d’investir dans les crypto-actifs. En ce mois de janvier, il [a acheté **16 244 bitcoins**](https://cointelegraph.com/news/pay-attention-grayscale-adds-18x-the-bitcoin-mined-supply-in-one-day) supplémentaires, pour plus de **600 millions de dollars**. Grayscale aurait en sa possession plus de **3% de l'offre de bitcoins** en circulation. On apprend que la société lance aussi des produits autour de [6 autres crypto-actifs](https://www.theblockcrypto.com/linked/92919/grayscale-trust-incorporation-polkadot-aave?utm_source=cryptopanic&utm_medium=rss) ; Aave, Cardano, Cosmos, Eos, Polkadot et Monero. **BlackRock**, le plus grand gestionnaire d’actifs au monde, ainsi que la banque **Goldman Sachs**, devraient à leur tour proposer des produits financiers basés sur des crypto-actifs.
 
 {:refdef: style="text-align: center;"}
 ![]({{ site.baseurl }}/assets/images/articles/inblock-1-actualite-blockchain-et-crypto-janvier-2021/grayscale.png){:height="200px" width="500px"}
@@ -59,7 +59,7 @@ On notera aussi plusieurs actualités intéressantes liées au développement de
 ![]({{ site.baseurl }}/assets/images/articles/inblock-1-actualite-blockchain-et-crypto-janvier-2021/ens_cloudflare_ipfs_brave.jpg){:height="200px" width="400px"}
 {: refdef}
 
-La plateforme communautaire [**Reddit** s’associe à la **fondation Ethereum**]https://www.reddit.com/r/ethereum/comments/l6c3kx/reddit_announces_partnership_with_the_ethereum/). Cette collaboration a pour objectif le développement d’outils autour d’Ethereum, et la mise en place d’un programme de récompense pour les utilisateurs de Reddit. 
+La plateforme communautaire [**Reddit** s’associe à la **fondation Ethereum**](https://www.reddit.com/r/ethereum/comments/l6c3kx/reddit_announces_partnership_with_the_ethereum/). Cette collaboration a pour objectif le développement d’outils autour d’Ethereum, et la mise en place d’un programme de récompense pour les utilisateurs de Reddit. 
 
 L’application de messagerie chiffrée **Signal**, qui a récemment fait parler d’elle suite à la polémique avec Whatsapp, explore [l’utilisation d’une **cryptomonnaie**](https://www.platformer.news/p/-the-battle-inside-signal) comme solution de paiements. Cela rappelle le projet de la messagerie **Telegram**, dont sa cryptomonnaie n’a pas pu voir le jour suite à de nombreux [problèmes réglementaires](https://journalducoin.com/regulation/actualites-regulation/telegram-vs-sec-185-millions-de-dollars-de-penalite-pour-lico-de-telegram/). 
 

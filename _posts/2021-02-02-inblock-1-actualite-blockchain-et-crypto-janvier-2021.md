@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-1-actualite-blockchain-et-crypto-janvier-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Le marché en pleine forme

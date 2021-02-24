@@ -404,8 +404,19 @@
             <news:name>inBlock #1 : l'actualité Blockchain et Crypto de janvier 2021</news:name> 
             <news:language>fr</news:language>
         </news:publication> 
-        <news:publication_date>2021-01-27</news:publication_date> 
+        <news:publication_date>2021-02-02</news:publication_date> 
         <news:title>inBlock #1 : l'actualité Blockchain et Crypto de janvier 2021</news:title> 
+    </news:news> 
+</url>
+<url>
+<loc>https://cryptoms.fr/economie/2021/02/25/les-cryptomonnaies-au-service-de-l-economie-locale.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Les cryptomonnaies au service de l'économie locale ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-02-25</news:publication_date> 
+        <news:title>Les cryptomonnaies au service de l'économie locale ?</news:title> 
     </news:news> 
 </url>
 </urlset>

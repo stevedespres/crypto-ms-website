@@ -57,4 +57,7 @@ Le commerçant, toujours via l'application, pourrait par la suite, soit **payer 
 
 Nous avons proposé notre idée au budget participatif d'Angers, vous pouvez la soutenir en suivant ce [lien](https://ecrivons.angers.fr/processes/BP2021/f/351/proposals/2123). 
 
+<script src="https://ecrivons.angers.fr/processes/BP2021/f/351/proposals/2123/embed.js"></script>
+<noscript><iframe src="https://ecrivons.angers.fr/processes/BP2021/f/351/proposals/2123/embed.html" frameborder="0" scrolling="vertical"></iframe></noscript> 
+
 Merci pour votre lecture, n’hésitez pas à partager vos avis et idées. 

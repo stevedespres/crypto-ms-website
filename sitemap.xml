@@ -419,4 +419,15 @@
         <news:title>Les cryptomonnaies au service de l'économie locale ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/actualites/2021/03/02/inblock-2-actualite-blockchain-et-crypto-fevrier-2021.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>inBlock #2 : l'actualité Blockchain et Crypto de février 2021</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-03-02</news:publication_date> 
+        <news:title>inBlock #2 : l'actualité Blockchain et Crypto de février 2021</news:title> 
+    </news:news> 
+</url>
 </urlset>

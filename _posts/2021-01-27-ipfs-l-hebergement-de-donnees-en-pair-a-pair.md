@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/ipfs-l-hebergement-de-donnees-en-pair-a-pair/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Décentraliser la distribution de données

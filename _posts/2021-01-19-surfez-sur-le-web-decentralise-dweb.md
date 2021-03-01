@@ -41,7 +41,7 @@ Plusieurs **protocoles** permettent de construire le dWeb. [IPFS](https://ipfs.i
 
 Les **protocoles Blockchain** et **plateformes décentralisées** sont aussi au cœur du dWeb. Ils permettent la conception d'applications fonctionnant de manière automatique et sans intermédiaire. [Ethereum](https://ethereum.org/fr/) bien sûr, mais aussi [Blockstack](https://www.blockstack.org/), [Cardano](https://cardano.org/), [ChainLink](https://fr.investing.com/crypto/chainlink) et de nombreux autres protocoles participent à cet écosystème. 
 
-Les **cryptoactifs**, **crypto-monnaies** ou tout autres **tokens** sont des actifs numériques fonctionnant sur des protocoles Blockchain. Ils peuvent **représenter tout type d'actif**, être **échangés** et **utilisés** dans des applications décentralisées. Ils rendent possible **l’échange de valeur** sur Internet, sans passer par un tiers. Le marché des cryptoactifs est en plein essor, Bitcoin en tête. Ces actifs permettent de concevoir de nouveaux types d’applications et de modèles économiques.
+Les **cryptoactifs**, **cryptomonnaies** ou tout autres **tokens** sont des actifs numériques fonctionnant sur des protocoles Blockchain. Ils peuvent **représenter tout type d'actif**, être **échangés** et **utilisés** dans des applications décentralisées. Ils rendent possible **l’échange de valeur** sur Internet, sans passer par un tiers. Le marché des cryptoactifs est en plein essor, Bitcoin en tête. Ces actifs permettent de concevoir de nouveaux types d’applications et de modèles économiques.
 
 {:refdef: style="text-align: center;"}
 ![]({{ site.baseurl }}/assets/images/articles/surfez-sur-le-web-decentralise-dweb/dweb_tech.png){:height="200px" width="600px"}

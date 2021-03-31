@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-2-actualite-blockchain-et-crypto-fevrier-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### De nouveaux records

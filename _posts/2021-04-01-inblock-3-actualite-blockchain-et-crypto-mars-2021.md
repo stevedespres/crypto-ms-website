@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-3-actualite-blockchain-et-crypto-mars-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une pause et ça repart ?

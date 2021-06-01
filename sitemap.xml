@@ -452,4 +452,15 @@
         <news:title>inBlock #4 : l'actualité Blockchain et Crypto d'avril 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/actualites/2021/06/01/inblock-5-actualite-blockchain-et-crypto-mai-2021.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>inBlock #5 : l'actualité Blockchain et Crypto de mai 2021</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-06-01</news:publication_date> 
+        <news:title>inBlock #5 : l'actualité Blockchain et Crypto de mai 2021</news:title> 
+    </news:news> 
+</url>
 </urlset>

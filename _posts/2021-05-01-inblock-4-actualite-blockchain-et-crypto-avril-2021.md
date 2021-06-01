@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-4-actualite-blockchain-et-crypto-avril-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Des hauts et des bas

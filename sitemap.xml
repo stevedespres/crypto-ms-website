@@ -463,4 +463,15 @@
         <news:title>inBlock #5 : l'actualité Blockchain et Crypto de mai 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/actualites/2021/06/07/blockchain-et-economie-circulaire-quels-sont-les-enjeux.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Blockchain et économie circulaire : quels sont les enjeux ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-06-07</news:publication_date> 
+        <news:title>Blockchain et économie circulaire : quels sont les enjeux ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

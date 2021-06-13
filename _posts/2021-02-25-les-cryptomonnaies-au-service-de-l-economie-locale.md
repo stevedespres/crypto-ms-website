@@ -6,7 +6,7 @@ author: marvin
 categories: [ economie ]
 image: assets/images/articles/les-cryptomonnaies-au-service-de-l-economie-locale/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une économie en difficulté

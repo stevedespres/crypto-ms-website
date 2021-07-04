@@ -474,4 +474,15 @@
         <news:title>Arnaques aux cryptomonnaies : prudence sur les réseaux sociaux?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/actualites/2021/07/04/inblock-6-actualite-blockchain-et-crypto-juin-2021.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>inBlock #6 : l'actualité Blockchain et Crypto de juin 2021</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-07-04</news:publication_date> 
+        <news:title>inBlock #6 : l'actualité Blockchain et Crypto de juin 2021</news:title> 
+    </news:news> 
+</url>
 </urlset>

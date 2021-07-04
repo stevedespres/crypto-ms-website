@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-5-actualite-blockchain-et-crypto-mai-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une chute historique

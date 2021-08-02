@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-6-actualite-blockchain-et-crypto-juin-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une tendance à la baisse

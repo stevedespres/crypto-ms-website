@@ -496,4 +496,15 @@
         <news:title>inBlock #7 : l'actualité Blockchain et Crypto de juillet 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/actualites/2021/09/02/inblock-8-actualite-blockchain-et-crypto-aout-2021.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>inBlock #8 : l'actualité Blockchain et Crypto d'août 2021</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-09-02</news:publication_date> 
+        <news:title>inBlock #8 : l'actualité Blockchain et Crypto d'août 2021</news:title> 
+    </news:news> 
+</url>
 </urlset>

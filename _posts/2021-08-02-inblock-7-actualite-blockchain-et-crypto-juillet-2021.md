@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-7-actualite-blockchain-et-crypto-juillet-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Un espoir de reprise haussière

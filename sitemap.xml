@@ -507,4 +507,15 @@
         <news:title>inBlock #8 : l'actualité Blockchain et Crypto d'août 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2021/09/27/unikname-votre-identifiant-decentralise.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Unikname : votre identifiant décentralisé</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-09-27</news:publication_date> 
+        <news:title>Unikname : votre identifiant décentralisé</news:title> 
+    </news:news> 
+</url>
 </urlset>

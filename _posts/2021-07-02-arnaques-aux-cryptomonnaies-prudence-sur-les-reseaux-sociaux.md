@@ -6,7 +6,7 @@ author: marvin
 categories: [ finance ]
 image: assets/images/articles/arnaques-aux-cryptomonnaies-prudence-sur-les-reseaux-sociaux/1.jpg
 image_credential: "" 
-featured: true
+featured: false
 ---
 
 ### Les escroqueries se multiplient

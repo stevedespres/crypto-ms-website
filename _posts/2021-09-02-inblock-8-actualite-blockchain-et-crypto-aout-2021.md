@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-8-actualite-blockchain-et-crypto-aout-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Le marché rebondit 

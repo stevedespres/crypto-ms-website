@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/unikname-votre-identifiant-decentralise/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### L’identité décentralisée à la portée de tous

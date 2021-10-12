@@ -529,4 +529,15 @@
         <news:title>inBlock #9 : l'actualité Blockchain et Crypto de septembre 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/evenements/2021/10/13/50-experts-vous-expliquent-la-blockchain-et-les-cryptomonnaies.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Wallcrypt : 50 experts vous expliquent la Blockchain et les cryptomonnaies</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-10-13</news:publication_date> 
+        <news:title>Wallcrypt : 50 experts vous expliquent la Blockchain et les cryptomonnaies</news:title> 
+    </news:news> 
+</url>
 </urlset>

@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-9-actualite-blockchain-et-crypto-septembre-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Entre peurs et doutes

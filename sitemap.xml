@@ -551,4 +551,15 @@
         <news:title>inBlock #10 : l'actualité Blockchain et Crypto d'octobre 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/economie/2021/11/08/ethereum-name-service-dao-airdrop-ens.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Ethereum Name Service devient une DAO et lance son token $ENS</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-11-08</news:publication_date> 
+        <news:title>Ethereum Name Service devient une DAO et lance son token $ENS</news:title> 
+    </news:news> 
+</url>
 </urlset>

@@ -6,7 +6,7 @@ author: steve
 categories: [ evenements ]
 image: assets/images/articles/50-experts-vous-expliquent-la-blockchain-et-les-cryptomonnaies/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Un livre de référence

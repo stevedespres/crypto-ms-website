@@ -6,7 +6,7 @@ author: steve
 categories: [ actualites ]
 image: assets/images/articles/inblock-10-actualite-blockchain-et-crypto-octobre-2021/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Vers de nouveaux records

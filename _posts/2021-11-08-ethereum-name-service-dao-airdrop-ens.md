@@ -6,7 +6,7 @@ author: steve
 categories: [ economie ]
 image: assets/images/articles/ethereum-name-service-dao-ens/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### ENS, un service de noms de domaine décentralisé

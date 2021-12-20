@@ -573,4 +573,15 @@
         <news:title>inBlock #11 : l'actualité Blockchain et Crypto de novembre 2021</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2021/12/20/ion-identité-decentralisee-sur-bitcoin.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>ION : l'identité décentralisée sur Bitcoin</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2021-12-20</news:publication_date> 
+        <news:title>ION : l'identité décentralisée sur Bitcoin</news:title> 
+    </news:news> 
+</url>
 </urlset>

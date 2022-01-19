@@ -584,4 +584,15 @@
         <news:title>ION : l'identité décentralisée sur Bitcoin</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/finance/2022/01/20/animoon-escroquerie-aux-nft-poussee-par-des-influenceurs.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Animoon : une escroquerie aux NFT poussée par des influenceurs ?</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2022-01-20</news:publication_date> 
+        <news:title>Animoon : une escroquerie aux NFT poussée par des influenceurs ?</news:title> 
+    </news:news> 
+</url>
 </urlset>

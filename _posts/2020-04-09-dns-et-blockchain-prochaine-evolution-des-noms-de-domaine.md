@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "DNS on Blockchain: la prochaine évolution des noms de domaine ?"
+title:  "DNS et Blockchain: la prochaine évolution des noms de domaine ?"
 description: "Le DNS, système de noms de domaine, est un service au coeur du fonctionnement d’Internet. La technologie Blockchain pourrait être une évolution considérable pour le DNS, en apportant plusieurs avantages et nouvelles fonctionnalités."
 author: steve
 categories: [ technologie ]
@@ -49,7 +49,7 @@ La technologie Blockchain répond à plusieurs besoins du DNS :
 - **Intégrité** : le protocole de consensus d’une Blockchain garantit, par nature, l’intégrité des données. De plus, les données ne peuvent pas être modifiées. Ces propriétés permettraient de se passer de DNSSEC, et de sa fameuse [cérémonie de renouvellement des clés.](https://www.nextinpact.com/brief/dnssec---quand-un-coffre-fort--physique--decale-le-renouvellement-des-cles-zsk-11293.htm)
 - **Confidentialité** : Les requêtes effectuées pour lire les données de la Blockchain peuvent être encapsulées dans un canal HTTPS de la même manière que le protocole [DNS over HTTPS](https://www.nextinpact.com/news/108780-quest-ce-que-dns-over-https-doh-quest-ce-que-cela-peut-vous-apporter.htm) (DoH). Les résolveurs DoH sont aujourd’hui peu nombreux, donc le trafic est centralisé autour d’un nombre limité d’acteurs. L’utilisation d’une Blockchain offrirait la possibilité d'interroger n’importe quel noeud du réseau, et limiterait donc ainsi la centralisation et les SPF (single point of failure). 
 
-Les données incluent dans les **fichiers de zones DNS**, c’est-à-dire les configurations des noms de domaines, pourraient donc être **distribuées sur une Blockchain**. Chaque acteur (registres, bureaux d’enregistrement) pourrait directement interagir avec cette Blockchain pour gérer les noms de domaines. C’est l’idée du **DNS on Blockchain**.
+Les données incluent dans les **fichiers de zones DNS**, c’est-à-dire les configurations des noms de domaines, pourraient donc être **distribuées sur une Blockchain**. Chaque acteur (registres, bureaux d’enregistrement) pourrait directement interagir avec cette Blockchain pour gérer les noms de domaines.
 
 ### De nouveaux besoins
 
@@ -61,7 +61,7 @@ Les [portefeuilles numériques](https://www.journaldunet.fr/patrimoine/guide-des
 
 Pouvoir **associer ce type d’adresse à des noms de domaine**, au sein d’un **système universel de nommage**, pourrait avoir un réel intérêt pour les applications du Web de demain. Il serait possible d’avoir un portefeuille de cryptoactifs ou une application décentralisée **configurée directement derrière un nom de domaine**. Cela pourrait aussi se révéler utile pour l’identité numérique des entreprises et de leurs marques. 
 
-### DNS on Blockchain, aujourd’hui
+### Les noms de domaine sur Blockchain, aujourd’hui
 
 De nombreux projets de systèmes de nommage sur Blockchain sont actuellement en cours de développement, chacun avec sa propre implémentation. 
 
@@ -72,7 +72,7 @@ Ces applications sont fonctionnelles et l’enregistrement des noms n’est pas 
 
 ![]({{ site.baseurl }}/assets/images/articles/dns-on-blockchain-la-prochaine-evolution-des-noms-de-domaine/logo_dnsblockchain.png)
 
-D’autres projets proposent des **solutions complémentaires au DNS**. [Ethereum Name Service](https://ens.domains/) (ENS) propose notamment un système de noms sur Blockchain qui s’intègre avec le DNS traditionnel. Si vous êtes titulaire d’un nom de domaine et pouvez le prouver avec un enregistrement DNSSEC, vous pouvez alors enregistrer ce même nom sur le service Blockchain. Cela permet de **cumuler les avantages** du DNS traditionnel et du DNS on Blockchain. 
+D’autres projets proposent des **solutions complémentaires au DNS**. [Ethereum Name Service](https://ens.domains/) (ENS) propose notamment un système de noms sur Blockchain qui s’intègre avec le DNS traditionnel. Si vous êtes titulaire d’un nom de domaine et pouvez le prouver avec un enregistrement DNSSEC, vous pouvez alors enregistrer ce même nom sur ENS. Cela permet de **cumuler les avantages** du DNS traditionnel et des systèmes Blockchain. 
 
 Les extensions _.kred_, _.xyz_ et le _.luxe_ supportent déjà cette intégration sur Blockchain, et ENS prévoit de la proposer pour **toutes les extensions compatibles DNSSEC**. Ce projet est assez prometteur, Ethereum Name Service a récemment rejoint le [DNS-OARC](https://www.dns-oarc.net/) (DNS Operations, Analysis, and Research Center). 
 
@@ -80,7 +80,7 @@ Le projet [Handshake](https://handshake.org/) propose quant à lui un protocole 
 
 ### Conclusion
 
-Le DNS on Blockchain pourrait être une **évolution considérable** du DNS; cela apporterait **plusieurs avantages** et de **nouvelles fonctionnalités** grâce à la technologie Blockchain, ce qui profiterait au développement du web décentralisé. 
+Les noms de domaine sur Blockchain pourrait être une **évolution** du DNS; cela apporterait **plusieurs avantages** et de **nouvelles fonctionnalités** grâce à des technologies, ce qui profiterait au développement du web décentralisé. 
 
 Cependant aujourd’hui, il n’y a pas encore de technologies et d'applications qui font l’**unanimité**, même si de nombreux projets et PoC sont en cours de développement. Ils n’ont pas encore une **maturité suffisante** pour être utilisés à **grande échelle**. Des améliorations en termes de **scalabilité**, de **sécurité** et d’**usage** doivent être réalisées.
 

@@ -4,7 +4,7 @@ title:  "Surfez sur le Web décentralisé (Web3)"
 description: ""
 author: steve
 categories: [ technologie ]
-image: assets/images/articles/surfez-sur-le-web-decentralise-web3/1.jpg
+image: assets/images/articles/surfez-sur-le-web-decentralise-dweb/1.jpg
 image_credential: ""
 featured: false
 ---

@@ -6,7 +6,7 @@ author: marvin
 categories: [ finance ]
 image: assets/images/articles/animoon-escroquerie-aux-nft-poussee-par-des-influenceurs/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### La mode des NFT et les influenceurs

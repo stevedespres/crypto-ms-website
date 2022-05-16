@@ -65,7 +65,7 @@ Comme nous venons de la voir, les NFT sont des solutions techniques pour représ
 
 **Représentation de droits et certifications**
 
-- Les NFT peuvent donner **accès à des droits**. Dans le **secteur de l’immobilier**, des acteurs comme **RealT** proposent des NFT représentant des fractions de biens immobiliers en location, ce qui rémunère les propriétaires. 
+- Les NFT peuvent donner **accès à des droits**. Dans le **secteur de l’immobilier**, des entreprises proposent des NFT représentant des fractions de biens immobiliers en location, ce qui rémunère les propriétaires. 
 - Des **polices d’assurance** sous forme de NFT sont proposées par Yearn & Nexus Mutual. 
 - Des **diplômes** peuvent être représentés avec des NFT. Les titulaires peuvent alors **prouver leurs certifications**. 
 - Des **artistes** proposent des NFT qui donnent **accès à leurs concerts**.

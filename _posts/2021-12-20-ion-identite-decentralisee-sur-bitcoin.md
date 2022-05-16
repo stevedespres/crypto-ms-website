@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/ion-identite-decentralisee-sur-bitcoin/1.png
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### L’identité numérique de demain ?

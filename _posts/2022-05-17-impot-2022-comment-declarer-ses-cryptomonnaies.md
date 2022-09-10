@@ -6,7 +6,7 @@ author: steve
 categories: [ finance ]
 image: assets/images/articles/impot-2022-comment-declarer-ses-cryptomonnaies/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Une étape obligatoire

@@ -617,4 +617,15 @@
         <news:title>Impôt 2022 : comment déclarer ses cryptomonnaies ?</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2022/09/10/ethereum-comprendre-the-merge-en-5-minutes.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Ethereum : comprendre The Merge en 5 minutes</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2022-09-10</news:publication_date> 
+        <news:title>Ethereum : comprendre The Merge en 5 minutes</news:title> 
+    </news:news> 
+</url>
 </urlset>

@@ -5,7 +5,8 @@ description: ""
 author: steve
 categories: [ technologie ]
 image: assets/images/articles/ethereum-comprendre-the-merge-en-5-minutes/1.jpg
-image_credential: "https://ethereum.org/fr/upgrades/merge/"
+image_credential: ""
+image_thumbnail_position: "center"
 featured: true
 ---
 

@@ -6,7 +6,7 @@ author: steve
 categories: [ technologie ]
 image: assets/images/articles/les-nft-au-dela-de-l-effet-de-mode/1.jpg
 image_credential: ""
-featured: true
+featured: false
 ---
 
 ### Le concept de rareté numérique

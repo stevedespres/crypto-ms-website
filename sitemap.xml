@@ -628,4 +628,15 @@
         <news:title>Ethereum : comprendre The Merge en 5 minutes</news:title> 
     </news:news> 
 </url>
+<url>
+<loc>https://cryptoms.fr/technologie/2022/11/04/les-noms-de-domaine-blockchain-des-identifiants-decentralises.html</loc>
+    <news:news> 
+        <news:publication>
+            <news:name>Les noms de domaine Blockchain : des identifiants décentralisés</news:name> 
+            <news:language>fr</news:language>
+        </news:publication> 
+        <news:publication_date>2022-11-04</news:publication_date> 
+        <news:title>Les noms de domaine Blockchain : des identifiants décentralisés</news:title> 
+    </news:news> 
+</url>
 </urlset>

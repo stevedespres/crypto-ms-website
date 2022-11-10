@@ -220,7 +220,7 @@ Il est possible d'associer des adresses de portefeuilles crypto à un nom de dom
 
 #### 3.3. Association avec un site Web décentralisé
 
-[**IPFS**](https://cryptoms.fr/technologie/2021/01/27/ipfs-l-hebergement-de-donnees-en-pair-a-pair.html) est une technologie de **stockage décentralisée**, sur laquelle il est possible d'héberger des **sites Web** ou **d'autres types de données** afin de leur rendre "incensurables". Il est possible de lier un site Web décentralisé à un nom de domaine Blockchain, notamment en y associant son **identifiant IPFS**. Des passerelles et certains navigateurs comme Brave ou Opera permettent d’accéder facilement à ce type de contenus. 
+[**IPFS**](https://cryptoms.fr/technologie/2021/01/27/ipfs-l-hebergement-de-donnees-en-pair-a-pair.html) est une technologie de **stockage décentralisée**, sur laquelle il est possible d'héberger des **sites Web** ou **d'autres types de données** afin de les rendre "incensurables". Il est possible de lier un site Web décentralisé à un nom de domaine Blockchain, notamment en y associant son **identifiant IPFS**. Des passerelles et certains navigateurs comme Brave ou Opera permettent d’accéder facilement à ce type de contenus. 
 
 Par exemple, le site CryptoMS est hébergé sur IPFS et lié au nom **cryptoms.eth**. Il est accessible à travers la passerelle **Limo** à cette adresse : [https://cryptoms.eth.limo/](https://cryptoms.eth.limo/)
 

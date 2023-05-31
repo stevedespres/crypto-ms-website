@@ -7,7 +7,7 @@ categories: [ technologie ]
 image: assets/images/articles/ethereum-comprendre-the-merge-en-5-minutes/1.jpg
 image_credential: ""
 image_thumbnail_position: "center"
-featured: true
+featured: false
 ---
 
 ### Une évolution importante

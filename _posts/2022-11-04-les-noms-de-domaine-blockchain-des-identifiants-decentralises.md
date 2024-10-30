@@ -24,7 +24,7 @@ Depuis quelques années, nous voyons apparaître de nouvelles technologies prôn
     3. 1.3. [Le concept de Blockchain](#13-le-concept-de-blockchain)
     4. 1.4. [Ethereum : une plateforme d’applications décentralisées](#14-ethereum--une-plateforme-dapplications-décentralisées)
     5. 1.5. [De nouveaux actifs numériques](#15-de-nouveaux-actifs-numériques)
-2. [Les noms de domaine Blockchain](#2-les-noms-de-domaine-blockchain)
+2. [Les noms de domaine Web3](#2-les-noms-de-domaine-web3)
     1. 2.1. [Principe](#21-principe)
     2. 2.2. [Namecoin](#22-namecoin)
     3. 2.3. [Ethereum Name Service](#23-ethereum-name-service)
@@ -114,7 +114,7 @@ Les tokens font partie d’un **marché de niche**, avec aujourd’hui des cas d
 
 > Web1 is read-only, Web2 is read-write, Web3 is read-write-own.
 
-### 2. Les noms de domaine Blockchain
+### 2. Les noms de domaine Web3
 
 #### 2.1. Principe
 

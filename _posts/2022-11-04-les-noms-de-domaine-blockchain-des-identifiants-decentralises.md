@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Les noms de domaine Blockchain : des identifiants décentralisés"
+title:  "Les noms de domaine Web3 : des identifiants décentralisés"
 description: ""
 author: steve
 categories: [ technologie ]
@@ -196,7 +196,7 @@ Ces systèmes posent aussi des problèmes de **collisions**. Une collision se pr
 
 #### 3.1. Enregistrement
 
-Pour procéder à l’enregistrement d’un nom de domaine Blockchain, les procédures varient en fonction du système de nommage utilisé. De manière générale, il faut **créer un wallet**, qui va permettre de réaliser des transactions et détenir des tokens. 
+Pour procéder à l’enregistrement d’un nom de domaine Web3, les procédures varient en fonction du système de nommage utilisé. De manière générale, il faut **créer un wallet**, qui va permettre de réaliser des transactions et détenir des tokens. 
 
 Lors de la création d’un wallet, des clés cryptographiques sont générées :
 - **Une clé privée** : permet de contrôler le portefeuille et ses actifs. Elle ne doit pas être dévoilée. 
@@ -220,7 +220,7 @@ Il est possible d'associer des adresses de portefeuilles crypto à un nom de dom
 
 #### 3.3. Association avec un site Web décentralisé
 
-[**IPFS**](https://cryptoms.fr/technologie/2021/01/27/ipfs-l-hebergement-de-donnees-en-pair-a-pair.html) est une technologie de **stockage décentralisée**, sur laquelle il est possible d'héberger des **sites Web** ou **d'autres types de données** afin de les rendre "incensurables". Il est possible de lier un site Web décentralisé à un nom de domaine Blockchain, notamment en y associant son **identifiant IPFS**. Des passerelles et certains navigateurs comme Brave ou Opera permettent d’accéder facilement à ce type de contenus. 
+[**IPFS**](https://cryptoms.fr/technologie/2021/01/27/ipfs-l-hebergement-de-donnees-en-pair-a-pair.html) est une technologie de **stockage décentralisée**, sur laquelle il est possible d'héberger des **sites Web** ou **d'autres types de données** afin de les rendre "incensurables". Il est possible de lier un site Web décentralisé à un nom de domaine Web3, notamment en y associant son **identifiant IPFS**. Des passerelles et certains navigateurs comme Brave ou Opera permettent d’accéder facilement à ce type de contenus. 
 
 Par exemple, le site CryptoMS est hébergé sur IPFS et lié au nom **cryptoms.eth**. Il est accessible à travers la passerelle **Limo** à cette adresse : [https://cryptoms.eth.limo/](https://cryptoms.eth.limo/)
 
@@ -301,7 +301,7 @@ Du côté des usages, les noms de domaine Blockchain répondent en premier lieu 
 
 Avec les noms de domaine traditionnels, il existe des procédures afin de permettre aux ayants droit de **récupérer des noms** portant atteinte à leur image ([UDRP](https://www.wipo.int/amc/fr/domains/gtld/udrp/index.html)). Les systèmes de nommages sur Blockchain, de par leur nature décentralisée, **ne proposent pas ce type de solution**. Certaines places de marchés ont mis en place des solutions payantes afin de **désindexer des contenus** de leurs plateformes, mais cela n’a pas d’impact sur la titularité des actifs numériques. D’autre part, des acteurs comme Unstoppable domains ont choisi de **bloquer la réservation** de noms correspondant à des marques connues, afin de les réserver aux ayants droit. 
 
-Néanmoins, la loi doit être respectée, notamment le droit relatif à la **propriété intellectuelle** ; la contrefaçon et l’usurpation d’identité sont des faits répréhensibles juridiquement. La difficulté réside essentiellement dans la **qualification** de ces noms de domaine Blockchain et **l’identification des parties prenantes**. Dans le cas d’un cybersquatting d’une marque avec un nom de domaine Blockchain, plusieurs parties prenantes interviennent : 
+Néanmoins, la loi doit être respectée, notamment le droit relatif à la **propriété intellectuelle** ; la contrefaçon et l’usurpation d’identité sont des faits répréhensibles juridiquement. La difficulté réside essentiellement dans la **qualification** de ces noms de domaine Blockchain et **l’identification des parties prenantes**. Dans le cas d’un cybersquatting d’une marque avec un nom de domaine Web3, plusieurs parties prenantes interviennent : 
 - Le **titulaire** qui a enregistré délibérément le nom. 
 - La **plateforme** ou **système de nommage** qui a permis cet enregistrement.
 - Les diverses **places de marchés** qui proposent la mise en vente de ce nom. 

@@ -7,7 +7,7 @@ categories: [ technologie ]
 image: assets/images/articles/dusa-un-protocole-defi-innovant/1.jpg
 image_credential: ""
 image_thumbnail_position: "right"
-featured: true
+featured: false
 ---
 
 ### Nouveaux concepts et décentralisation maximale
